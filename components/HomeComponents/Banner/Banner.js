@@ -44,9 +44,9 @@ const Banner = () => {
                   Take the Leap and dive into the Web 3.0 world
                 </Typography>
                 <Typography variant="body1">
-                  Hey it's Alexander (The founder of Leap Education), check out
+                  {`Hey it's Alexander (The founder of Leap Education), check out
                   my newsletter to take a further deep dive into crypto topics
-                  and projects!
+                  and projects!`}
                 </Typography>
               </Box>
               <Box className={bannerStyles.subscribeBox} sx={{ my: 3 }}>

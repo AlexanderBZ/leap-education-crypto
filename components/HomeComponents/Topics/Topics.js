@@ -1,6 +1,5 @@
 import { Box, Container, Grid, Typography } from "@mui/material";
 import React from "react";
-import cryptoStyles from "../../../styles/CryptoCurrencies.module.css";
 import bitcoin from "../../../images/Icon.svg";
 import SingleTopic from "./SingleTopic";
 

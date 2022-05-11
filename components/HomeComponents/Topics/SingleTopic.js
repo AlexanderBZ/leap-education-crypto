@@ -7,10 +7,12 @@ import ChevronRightIcon from "@mui/icons-material/ChevronRight";
 import LinksContainer from "../Links/links-container";
 
 const SingleTopic = ({ topic }) => {
-  const { name, symbol, description, icon } = topic;
+  const { name, symbol, description } = topic;
   const [showLinks, setShowLinks] = useState(false);
 
   const toggleOpen = () => setShowLinks(!showLinks);
+
+  //"../../../markdown/Leap 29d0c51d2745429fa954d877a4f94b99"
 
   return (
     <div>
@@ -28,7 +30,11 @@ const SingleTopic = ({ topic }) => {
         }}
         onClick={toggleOpen}
       >
-        <Image className={cryptoStyles.icon} src={icon} alt="" />
+        <Image
+          className={cryptoStyles.icon}
+          src={`../../../images/${name.replaceAll(" ", "-").toLowerCase()}.svg`}
+          alt=""
+        />
         <Box>
           <Typography
             className={cryptoStyles.cryptoName}

@@ -13,7 +13,7 @@ export default function LinksContainer({ toggleOpen, links }) {
         <h2>{links.name}</h2>
         <section className={classes.links}>
           {links.hrefs.map((link) => (
-            <a href={link.href} target="_blank" rel="noreferrer">
+            <a href={link.href} key={link.id} target="_blank" rel="noreferrer">
               <li>
                 <span className={classes.title}>{link.title}</span>
               </li>
