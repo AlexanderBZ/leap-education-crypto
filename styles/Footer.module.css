@@ -1,0 +1,62 @@
+/* newsletter  */
+.newsletter {
+  background: linear-gradient(180deg, #2b076e 0%, #0d0d2b 100%);
+  padding: 80px 0;
+}
+
+.newsletterForm {
+  border: none;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+  background: transparent;
+  color: #fff !important;
+  width: 80%;
+  outline: none;
+  padding: 10px 15px;
+  font-size: 16px;
+}
+
+.newsletterForm::placeholder {
+  color: #fff !important;
+}
+
+.newsletterBtn {
+  background: #ffffff !important;
+  color: #0d0d2b !important;
+  border-radius: 32px !important;
+  padding: 10px 40px !important;
+}
+
+.newsletterTextBox {
+  position: relative;
+}
+.ethereum {
+  position: absolute;
+  top: -80px;
+  left: 0;
+}
+
+.newsletterFormBox {
+  position: relative;
+}
+
+.bitcoinCurved {
+  position: absolute;
+  right: 0;
+  top: -50px;
+}
+
+/* footerSection */
+.footerSection {
+  background: #0d0d2b;
+  color: #fff;
+}
+
+.footerTitle {
+  font-weight: 500 !important;
+}
+
+@media only screen and (max-width: 768px) {
+  .newsletter {
+    display: none;
+  }
+}

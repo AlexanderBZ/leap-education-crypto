@@ -1,0 +1,30 @@
+.headerSection {
+  background: #0d0d2b;
+}
+.subscribeBox {
+  position: relative !important;
+}
+.subscribeForm {
+  background: #ffffff !important;
+  border: none !important;
+  border-radius: 10px !important;
+  padding: 20px !important;
+  width: 90% !important;
+  outline: none !important;
+}
+
+.subscribeBtn {
+  position: absolute !important;
+  top: 6px !important;
+  right: 12% !important;
+  background: #3671e9 !important;
+  border-radius: 10px !important;
+  padding: 10px 30px !important;
+  text-transform: capitalize !important;
+}
+
+@media only screen and (max-width: 768px) {
+  .subscribeBtn {
+    padding: 10px 20px !important;
+  }
+}
