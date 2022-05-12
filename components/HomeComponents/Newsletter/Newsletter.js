@@ -6,7 +6,7 @@ import {
   TextField,
   Typography,
 } from "@mui/material";
-import React, { useState } from "react";
+import React, { useRef } from "react";
 import footerStyles from "../../../styles/Footer.module.css";
 import { Box } from "@mui/system";
 import Image from "next/image";
@@ -14,11 +14,31 @@ import ethereum from "../../../images/ethereum.svg";
 import bitcoinCurved from "../../../images/bitcoin-curved.svg";
 
 const Newsletter = () => {
-  const [email, setEmail] = useState("");
+  //Ref for email
+  const emailInputRef = useRef();
 
-  const onChangeHandler = (event) => {
-    setEmail(event.target.value);
-  };
+  //Submit handler for auth
+  async function submitHandler(event) {
+    //Prevent default HTMl function
+    event.preventDefault();
+
+    //Get value of email and password inputs
+    const enteredEmail = emailInputRef.current.value;
+
+    await fetch("https://www.getrevue.co/api/v2/subscribers", {
+      method: "POST",
+      headers: {
+        Authorization: `Token ${process.env.REVUE_API_KEY}`,
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        email: enteredEmail,
+        double_opt_in: false,
+      }),
+    });
+
+    emailInputRef.current.value = "";
+  }
 
   return (
     <div className={footerStyles.newsletter}>
@@ -41,40 +61,35 @@ const Newsletter = () => {
                 Subscribe to my newsletter
               </Typography>
               <Typography variant="body1">
-                Take a deeper dive into crypto topics and projects{" "}
+                Take a deeper dive into crypto topics and projects
               </Typography>
             </Box>
           </Grid>
           <Grid item xs={2} md={6}>
             <Box sx={{ pr: 4 }} className={footerStyles.newsletterFormBox}>
-              <Stack direction="row" spacing={2}>
-                <input
-                  className={footerStyles.newsletterForm}
-                  placeholder="Enter your email"
-                  name="name"
-                  onChange={onChangeHandler}
-                  value={email}
-                />
-                <Button
-                  className={footerStyles.newsletterBtn}
-                  variant="contained"
-                  onClick={(email) => {
-                    fetch("https://www.getrevue.co/api/v2/subscribers", {
-                      method: "POST",
-                      headers: {
-                        Accept: "application/json, text/plain, */*",
-                        "Content-Type": "application/json",
-                      },
-                      body: JSON.stringify({
-                        email: email,
-                        double_opt_in: false,
-                      }),
-                    });
-                  }}
-                >
-                  Subscribe
-                </Button>
-              </Stack>
+              <form
+                onSubmit={submitHandler}
+                className={footerStyles.newsletterFormBox}
+              >
+                <Stack direction="row" spacing={2}>
+                  <input
+                    className={footerStyles.newsletterForm}
+                    placeholder="Enter your email"
+                    type="email"
+                    id="email"
+                    ref={emailInputRef}
+                    required
+                  />
+                  <Button
+                    className={footerStyles.newsletterBtn}
+                    variant="contained"
+                    type="submit"
+                  >
+                    Subscribe
+                  </Button>
+                </Stack>
+              </form>
+
               <Box className={footerStyles.bitcoinCurved}>
                 <Image src={bitcoinCurved} alt="" width={160} height={250} />
               </Box>

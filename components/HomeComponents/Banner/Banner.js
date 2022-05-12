@@ -9,12 +9,38 @@ import {
 } from "@mui/material";
 import { Box } from "@mui/system";
 import Image from "next/image";
-import React from "react";
+import React, { useRef } from "react";
 import bitcoin from "../../../images/bitcoin.svg";
 import bannerStyles from "../../../styles/Banner.module.css";
 import Navigation from "../../Navigation/Navigation";
 
 const Banner = () => {
+  //Ref for email
+  const emailInputRef = useRef();
+
+  //Submit handler for auth
+  async function submitHandler(event) {
+    //Prevent default HTMl function
+    event.preventDefault();
+
+    //Get value of email and password inputs
+    const enteredEmail = emailInputRef.current.value;
+
+    await fetch("https://www.getrevue.co/api/v2/subscribers", {
+      method: "POST",
+      headers: {
+        Authorization: `Token ${process.env.REVUE_API_KEY}`,
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        email: enteredEmail,
+        double_opt_in: false,
+      }),
+    });
+
+    emailInputRef.current.value = "";
+  }
+
   return (
     <div className={bannerStyles.headerSection}>
       {/* navigaiton  */}
@@ -50,6 +76,10 @@ const Banner = () => {
                 </Typography>
               </Box>
               <Box className={bannerStyles.subscribeBox} sx={{ my: 3 }}>
+                <form
+                  onSubmit={submitHandler}
+                  className={bannerStyles.subscribeBox}
+                ></form>
                 <Stack
                   direction="row"
                   divider={<Divider orientation="vertical" flexItem />}
@@ -57,12 +87,16 @@ const Banner = () => {
                 >
                   <input
                     className={bannerStyles.subscribeForm}
-                    type="email"
                     placeholder="Enter your email address..."
+                    type="email"
+                    id="email"
+                    ref={emailInputRef}
+                    required
                   />
                   <Button
                     className={bannerStyles.subscribeBtn}
                     variant="contained"
+                    type="submit"
                   >
                     Subscribe
                   </Button>

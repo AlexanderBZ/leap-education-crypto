@@ -4,19 +4,24 @@ import Image from "next/image";
 import React, { useState } from "react";
 import cryptoStyles from "../../../styles/CryptoCurrencies.module.css";
 import ChevronRightIcon from "@mui/icons-material/ChevronRight";
-import LinksContainer from "../Links/links-container";
+import TopicContainer from "../Topics/TopicContainer";
 
-const SingleTopic = ({ topic }) => {
-  const { name, symbol, description } = topic;
-  const [showLinks, setShowLinks] = useState(false);
+const SingleTopicPreview = ({ topic }) => {
+  const { name, symbol, description, icon } = topic;
+  const [showTopic, setShowTopic] = useState(false);
 
-  const toggleOpen = () => setShowLinks(!showLinks);
+  const toggleOpen = () => setShowTopic(!showTopic);
 
-  //"../../../markdown/Leap 29d0c51d2745429fa954d877a4f94b99"
+  /*"../../../markdown/Leap 29d0c51d2745429fa954d877a4f94b99"
+  <Image
+    className={cryptoStyles.icon}
+    src={`../../../images/${name.replaceAll(" ", "-").toLowerCase()}.svg`}
+    alt=""
+  />*/
 
   return (
     <div>
-      {showLinks && <LinksContainer toggleOpen={toggleOpen} links={topic} />}
+      {showTopic && <TopicContainer toggleOpen={toggleOpen} topic={topic} />}
       <Paper
         sx={{
           textAlign: "center",
@@ -30,11 +35,7 @@ const SingleTopic = ({ topic }) => {
         }}
         onClick={toggleOpen}
       >
-        <Image
-          className={cryptoStyles.icon}
-          src={`../../../images/${name.replaceAll(" ", "-").toLowerCase()}.svg`}
-          alt=""
-        />
+        <Image className={cryptoStyles.icon} src={icon} alt="" />
         <Box>
           <Typography
             className={cryptoStyles.cryptoName}
@@ -65,4 +66,4 @@ const SingleTopic = ({ topic }) => {
   );
 };
 
-export default SingleTopic;
+export default SingleTopicPreview;
