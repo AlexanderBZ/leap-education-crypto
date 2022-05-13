@@ -26,19 +26,27 @@ const Banner = () => {
     //Get value of email and password inputs
     const enteredEmail = emailInputRef.current.value;
 
-    await fetch("https://www.getrevue.co/api/v2/subscribers", {
-      method: "POST",
-      headers: {
-        Authorization: `Token ${process.env.REVUE_API_KEY}`,
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        email: enteredEmail,
-        double_opt_in: false,
-      }),
-    });
+    if (!enteredEmail || enteredEmail == "") {
+      return res.status(400).json({ error: "Email is required" });
+    }
 
-    emailInputRef.current.value = "";
+    try {
+      await fetch("https://www.getrevue.co/api/v2/subscribers", {
+        method: "POST",
+        headers: {
+          Authorization: `Token ${process.env.REVUE_API_KEY}`,
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          email: enteredEmail,
+          double_opt_in: false,
+        }),
+      });
+
+      emailInputRef.current.value = "";
+    } catch (error) {
+      await console.log(error);
+    }
   }
 
   return (
