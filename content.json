@@ -1,0 +1,1625 @@
+[
+  {
+    "topics": [
+      {
+        "title": "Overview of Web3",
+        "subtopics": [
+          {
+            "title": "Web3",
+            "links": [
+              {
+                "title": "Why Web3 Matters?",
+                "href": "https://future.a16z.com/why-web3-matters/"
+              },
+              {
+                "title": "What is Web3?",
+                "href": "https://www.odysseydao.com/articles/what-is-web3"
+              },
+              {
+                "title": "What the hell is Web3? Here's an explanation, in plain English.",
+                "href": "https://medium.com/g20-ventures/what-the-hell-is-web3-heres-an-explanation-in-plain-english-b223108b5ffb"
+              },
+              {
+                "title": "The Importance of Web3 to Digital Culture & Society",
+                "href": "https://medium.com/the-millennial-republican/the-importance-of-web3-to-digital-culture-society-90175d0bf8b"
+              }
+            ]
+          },
+          {
+            "title": "Decentralization",
+            "links": [
+              {
+                "title": "Why Decentralization Matters?",
+                "href": "https://medium.com/@Bitcom21/the-long-game-in-crypto-why-decentralization-matters-fd681ff5ed0"
+              },
+              {
+                "title": "What is Decentralization in Blockchain?",
+                "href": "https://aws.amazon.com/blockchain/decentralization-in-blockchain/#:~:text=In%20blockchain%2C%20decentralization%20refers%20to,thereof%20to%20a%20distributed%20network."
+              },
+              {
+                "title": "Why Decentralization is the Future",
+                "href": "https://medium.com/codex/why-decentralization-is-the-future-7170dd0d7b56"
+              },
+              {
+                "title": "There's more to decentralization than blockchains and bitcoin",
+                "href": "https://medium.com/@shevski/how-decentralised-are-you-a6539eeb27ff"
+              }
+            ]
+          },
+          {
+            "title": "Cryptocurrency",
+            "links": [
+              {
+                "title": "What is Cryptocurrency?",
+                "href": "https://www.kraken.com/learn/what-is-cryptocurrency"
+              },
+              {
+                "title": "What is cryptocurrency and how does it work?",
+                "href": "https://www.kaspersky.com/resource-center/definitions/what-is-cryptocurrency#:~:text=Cryptocurrency%20is%20a%20digital%20payment,to%20send%20and%20receive%20payments.&text=When%20you%20transfer%20cryptocurrency%20funds,is%20stored%20in%20digital%20wallets."
+              },
+              {
+                "title": "New to Cryptocurrency? Start Here",
+                "href": "https://medium.com/swlh/new-to-cryptocurrency-start-here-44cc5a6d6626"
+              },
+              {
+                "title": "What is cryptocurrency? A beginner's guide to digital currency",
+                "href": "https://cointelegraph.com/blockchain-for-beginners/what-is-a-cryptocurrency-a-beginners-guide-to-digital-money"
+              },
+              {
+                "title": "Why Do Bitcoins Have Value? - Investopedia",
+                "href": "https://www.investopedia.com/ask/answers/100314/why-do-bitcoins-have-value.asp"
+              }
+            ]
+          },
+          {
+            "title": "Blockchain",
+            "links": [
+              {
+                "title": "Blockchain, Explained",
+                "href": "https://www.theverge.com/22654785/blockchain-explained-cryptocurrency-what-is-stake-nft"
+              },
+              {
+                "title": "A Deep Dive into Blockchain",
+                "href": "https://towardsdatascience.com/a-deep-dive-into-blockchain-d1eb753fb74c"
+              },
+              {
+                "title": "A Simple Guide to Understanding Blockchain",
+                "href": "https://medium.com/swlh/a-simple-guide-to-understanding-blockchain-8dd09356b153"
+              },
+              {
+                "title": "How Does the Blockchain Work?",
+                "href": "https://onezero.medium.com/how-does-the-blockchain-work-98c8cd01d2ae"
+              },
+              {
+                "title": "Types of Blockchain Explained",
+                "href": "https://medium.com/brandlitic/types-of-blockchain-explained-317b4ef0cf9a"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "DAOs",
+        "subtopics": [
+          {
+            "title": "Overview of DAOs",
+            "links": [
+              {
+                "title": "A beginner\u2019s guide to DAOs",
+                "href": "https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o"
+              },
+              {
+                "title": "Community DAOs",
+                "href": "https://p.mirror.xyz/cVN3KOss0uqpZwxHQKtC4Syvn1RfXaxofFKHJuKLWS4"
+              },
+              {
+                "title": "DAO Nation",
+                "href": "https://clay.mirror.xyz/DwJ60O0R1IyRiPAZFBw4L05L3fd8PPxWnzDNedKtOas"
+              },
+              {
+                "title": "DAO Landscape",
+                "href": "https://coopahtroopa.mirror.xyz/_EDyn4cs9tDoOxNGZLfKL7JjLo5rGkkEfRa_a-6VEWw"
+              },
+              {
+                "title": "The Rise of Decentralized Autonomous Organizations",
+                "href": "https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1%E2%80%A6"
+              },
+              {
+                "title": "DAOs...company or community?",
+                "href": "https://30000feet.substack.com/p/issue-33-daoscompany-or-community"
+              },
+              {
+                "title": "How DAOs Do: A Guide",
+                "href": "https://medium.com/momentum6/how-daos-do-a-guide-1093fd51a770"
+              },
+              {
+                "title": "What is DAO and How it Works",
+                "href": "https://medium.com/smartz-blog/what-is-dao-and-how-it-works-d43ec5bc236f"
+              },
+              {
+                "title": "DAOs: Social networks that can rewire the world",
+                "href": "https://blog.coinbase.com/daos-social-networks-that-can-rewire-the-world-128b73732547"
+              }
+            ]
+          },
+          {
+            "title": "History of DAOs",
+            "links": [
+              {
+                "title": "A Prehistory of DAOs",
+                "href": "https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q"
+              },
+              {
+                "title": "The Dao of DAOs",
+                "href": "https://www.notboring.co/p/the-dao-of-daos"
+              },
+              {
+                "title": "Understanding The DAO Attack",
+                "href": "https://www.coindesk.com/learn/2016/06/25/understanding-the-dao-attack/"
+              },
+              {
+                "title": "The Story of the DAO \u2014 Its History and Consequences",
+                "href": "https://medium.com/swlh/the-story-of-the-dao-its-history-and-consequences-71e6a8a551ee"
+              }
+            ]
+          },
+          {
+            "title": "How to DAO",
+            "links": [
+              {
+                "title": "How to DAO (DAOhaus, UberHaus)",
+                "href": "DAOhaus, UberHaus]"
+              },
+              {
+                "title": "DAOs & Creators: Resources to Get Started Today",
+                "href": "https://kinjal.mirror.xyz/eD3-Sgv2h50j-kwjHQCOnwqMKqSLTfnrqrtNypU-P5k"
+              },
+              {
+                "title": "The Pros and Cons of Building a Dao",
+                "href": "https://www.web3.university/article/the-pros-and-cons-of-building-a-dao"
+              },
+              {
+                "title": "How to Create & Run Your Own DAO",
+                "href": "https://medium.com/bitfwd/how-to-create-run-your-own-dao-5e3eadd96962"
+              },
+              {
+                "title": "What are DAOs? What to know about the 'next big trend'",
+                "href": "https://www.cnbc.com/2021/10/25/what-are-daos-what-to-know-about-the-next-big-trend-in-crypto.html"
+              }
+            ]
+          },
+          {
+            "title": "DAO Treasury",
+            "links": [
+              {
+                "title": "The Case for DAO Treasury Diversification",
+                "href": "https://medium.com/indexcoop/the-case-for-dao-treasury-diversification-7d0a3f2c9631"
+              },
+              {
+                "title": "DAO Treasury and Balance Sheet Management",
+                "href": "https://docs.google.com/document/d/1KMpbdLdsj3lKo7nsC9HHWtjkBpY1NCP-BqJTf1puiH4/edit#"
+              },
+              {
+                "title": "DAO Treasuries: A Balancing Act",
+                "href": "https://ciaranmcveigh5.medium.com/dao-treasuries-a-balancing-act-64f6963ba707"
+              },
+              {
+                "title": "DAO: Treasury Management for Sustainability",
+                "href": "https://medium.com/@liberlion/dao-treasury-management-for-sustainability-f3cef4defd1e"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "NFTs",
+        "subtopics": [
+          {
+            "title": "Overview of NFTs",
+            "links": [
+              {
+                "title": "NFTs make the internet ownable",
+                "href": "https://variant.mirror.xyz/T8kdtZRIgy_srXB5B06L8vBqFHYlEBcv6ae2zR6Y_eo"
+              },
+              {
+                "title": "What is an NFT?",
+                "href": "https://www.odysseydao.com/articles/what-is-nft"
+              },
+              {
+                "title": "NFT\u00a0101",
+                "href": "https://medium.com/coinmonks/nfts-101-why-nfts-are-a-generational-innovation-4626ae803e3b"
+              },
+              {
+                "title": "NFT Canon",
+                "href": "https://a16z.com/2021/04/02/nfts-readings-resources/"
+              },
+              {
+                "title": "NFTs and A Thousand True Fans",
+                "href": "https://cdixon.org/2021/02/27/NFTs-and-a-thousand-true-fans"
+              },
+              {
+                "title": "Confused about NFTs? You are not alone.",
+                "href": "https://medium.com/geekculture/confused-about-nfts-you-are-not-alone-heres-all-you-need-to-know-170ece901fcc"
+              },
+              {
+                "title": "NFTs 101 \u2014 Why NFTs are a generational innovation",
+                "href": "https://medium.com/coinmonks/nfts-101-why-nfts-are-a-generational-innovation-4626ae803e3b"
+              },
+              {
+                "title": "The History of Non-Fungible Tokens (NFTs)",
+                "href": "NFTs]"
+              }
+            ]
+          },
+          {
+            "title": "Buying an NFT",
+            "links": [
+              {
+                "title": "Why buy NFTs?",
+                "href": "https://www.odysseydao.com/articles/why-buy-nfts"
+              },
+              {
+                "title": "Lulu\u2019s NFT Toolbox",
+                "href": "https://luluholland.medium.com/lulus-nft-toolbox-4dbfdeb415f5"
+              },
+              {
+                "title": "How to Buy a Non Fungible Token (NFT) For Beginners",
+                "href": "NFT For Beginners]"
+              },
+              {
+                "title": "How to buy an NFT from OpenSea",
+                "href": "https://medium.com/@maimai816/how-to-buy-nft-from-secondary-market-cf5c6b5a9f22"
+              },
+              {
+                "title": "WTF Would You Buy An NFT?",
+                "href": "https://medium.com/fortune-for-future/wtf-are-you-thinking-buying-an-nft-c9d67f898f45"
+              },
+              {
+                "title": "How to buy NFTs - LuLu Holland",
+                "href": "https://luluholland.medium.com/how-to-buy-nfts-21c6b174bade"
+              }
+            ]
+          },
+          {
+            "title": "Minting an NFT",
+            "links": [
+              {
+                "title": "How To Mint Nfts: A Step-By-Step Guide",
+                "href": "https://www.cnbctv18.com/cryptocurrency/how-to-mint-nfts-astep-by-step-guide-12058112.htm#:~:text=Minting%20an%20NFT,click%20on%20the%20create%20option."
+              },
+              {
+                "title": "OpenSea Marketplace: How to Buy, Sell and Mint NFTs",
+                "href": "https://www.coindesk.com/learn/opensea-marketplace-how-to-buy-sell-and-mint-nfts/"
+              },
+              {
+                "title": "NFT Minting vs Lazy Minting. Minting explained.",
+                "href": "https://medium.com/rarible-dao/nft-minting-vs-lazy-minting-mining-explained-4330dd57a4c4"
+              },
+              {
+                "title": "Choosing the Ideal NFT Minting Services",
+                "href": "https://medium.com/geekculture/choosing-the-ideal-nft-minting-services-to-unleash-your-platform-1aae2e8cf72f"
+              }
+            ]
+          },
+          {
+            "title": "Selling an NFT",
+            "links": [
+              {
+                "title": "How to Sell Non-Fungible Tokens (NFTs)",
+                "href": "NFTs]"
+              },
+              {
+                "title": "How To Sell NFTs In 5 Easy Steps",
+                "href": "https://greyjournal.net/hustle/finance/how-to-sell-nfts-in-5-easy-steps/"
+              },
+              {
+                "title": "I minted my first NFTs. Here's what I learnt.",
+                "href": "https://www.linkedin.com/pulse/i-made-450-selling-my-own-nfts-over-2-weekends-heres-what-azahari"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Wallets",
+        "subtopics": [
+          {
+            "title": "Wallets",
+            "links": [
+              {
+                "title": "What are Crypto Wallets\uff5cExplained for beginners",
+                "href": "https://youtu.be/d8IBpfs9bf4"
+              },
+              {
+                "title": "How to set up a wallet?",
+                "href": "https://www.odysseydao.com/articles/how-to-set-up-crypto-wallet"
+              },
+              {
+                "title": "Private Key Sweep vs. Import \u2013 A Beginner\u2019s Guide",
+                "href": "https://99bitcoins.com/bitcoin-wallet/paper/private-key-sweep-import/"
+              },
+              {
+                "title": "Cryptocurrency Wallets - Public and Private Keys (Asymmetric Encryption Animated)",
+                "href": "Asymmetric Encryption Animated]"
+              },
+              {
+                "title": "Cryptocurrency Wallet: A Complete Guide",
+                "href": "https://medium.com/xord/cryptocurrency-wallet-a-complete-guide-66368979dc61"
+              },
+              {
+                "title": "Hardware Wallets Explained",
+                "href": "https://medium.com/radartech/hardware-wallets-explained-da8bd93ce801"
+              },
+              {
+                "title": "Non-Custodial Crypto Wallets: Six Types Explored",
+                "href": "https://medium.com/coinmonks/non-custodial-crypto-wallets-six-types-explored-a8bc1187cf4a"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Domains",
+        "subtopics": [
+          {
+            "title": "Web3 Domains",
+            "links": [
+              {
+                "title": "Why ENS Names are Much More Than Domains",
+                "href": "https://blog.fleek.co/posts/why-ens-names-are-much-more-than-domains"
+              },
+              {
+                "title": "A Guide to ENS Domains + IPFS (Ethereum Name Service)",
+                "href": "Ethereum Name Service]"
+              },
+              {
+                "title": "How to get an ens domain?",
+                "href": "https://www.odysseydao.com/articles/how-to-get-an-ens-domain"
+              },
+              {
+                "title": "What are Blockchain Domains?",
+                "href": "https://medium.com/unstoppabledomains/what-are-blockchain-domains-e823c3a6be13"
+              },
+              {
+                "title": "Blockchain domains: the next big thing in crypto space!",
+                "href": "https://medium.com/@raj_gundeti/blockchain-domains-the-next-big-thing-in-crypto-space-3e8c69ad49d0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "DApps",
+        "subtopics": [
+          {
+            "title": "Exchanges",
+            "links": [
+              {
+                "title": "Top Decentralized Exchanges",
+                "href": "https://dappradar.com/rankings/category/exchanges"
+              },
+              {
+                "title": "How to Find the Best Cryptocurrency Exchange?",
+                "href": "https://medium.com/dapp-com/how-to-find-the-best-cryptocurrency-exchange-97631bf72ba4"
+              },
+              {
+                "title": "What are decentralized exchanges, and how do DEXs work?",
+                "href": "https://cointelegraph.com/defi-101/what-are-decentralized-exchanges-and-how-do-dexs-work"
+              },
+              {
+                "title": "Why decentralized exchanges are more important than ever",
+                "href": "https://medium.com/coinmonks/why-decentralized-exchanges-are-more-important-than-ever-and-how-they-work-1f07df6e852f"
+              }
+            ]
+          },
+          {
+            "title": "Gaming",
+            "links": [
+              {
+                "title": "Best Play-to-Earn Games with NFTs or Crypto",
+                "href": "https://www.playtoearn.online/games/"
+              },
+              {
+                "title": "Could play-to-earn crypto games replace your day job?",
+                "href": "https://theface.com/life/play-to-earn-crypto-games-what-are-they-how-to-make-money-axie-infinity-decentraland-sandbox"
+              },
+              {
+                "title": "What Are Play-to-Earn Games?",
+                "href": "https://decrypt.co/resources/what-are-play-to-earn-games-how-players-are-making-a-living-with-nfts"
+              },
+              {
+                "title": "Play-to-Earn Business Model: How It Works",
+                "href": "https://markets.businessinsider.com/news/currencies/play-to-earn-crypto-axie-infinity-business-model-gaming-value-2022-1"
+              },
+              {
+                "title": "Crypto Gaming is here",
+                "href": "https://medium.com/dare-to-be-better/crypto-gaming-is-here-238fb6a2c98?source=rss------cryptocurrency-5"
+              }
+            ]
+          },
+          {
+            "title": "Gambling",
+            "links": [
+              {
+                "title": "Decentralization of the Gambling Industry Through Blockchain",
+                "href": "https://www.winston.com/en/the-playbook/decentralization-of-the-gambling-industry-through-blockchain.html"
+              },
+              {
+                "title": "What Are Crypto Casinos \u2014 It's Dos & Don'ts",
+                "href": "https://medium.com/coinscapture/what-are-crypto-casinos-its-dos-don-ts-5826c78ea144"
+              },
+              {
+                "title": "Bitcoin Casinos vs. Traditional Casinos",
+                "href": "https://medium.com/bitcoin-news-today-gambling-news/bitcoin-casinos-vs-traditional-casinos-b803d30db505"
+              },
+              {
+                "title": "How to Build a Crypto Casino: Development Guide",
+                "href": "https://medium.com/ideasoft-io/how-to-build-a-crypto-casino-development-guide-d4e370b27dcc"
+              },
+              {
+                "title": "Bitcoin Casinos: The Future is Here",
+                "href": "https://www.pinterest.com/pin/687643436835882086/"
+              }
+            ]
+          },
+          {
+            "title": "Virtual Reality",
+            "links": [
+              {
+                "title": "Blockchain and AR/VR: A match made in virtual heaven?",
+                "href": "https://medium.com/trivial-co/blockchain-and-ar-vr-a-match-made-in-virtual-heaven-26e54782be56"
+              },
+              {
+                "title": "VR, gaming and crypto collide in blockchain-based game",
+                "href": "https://cointelegraph.com/press-releases/vr-gaming-and-crypto-collide-in-blockchain-based-game-zombie-world-z"
+              },
+              {
+                "title": "4 New Platforms Combining VR and Blockchain",
+                "href": "https://www.investopedia.com/news/4-new-platforms-combining-vr-and-blockchain/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Layer 1s",
+        "subtopics": [
+          {
+            "title": "Overview of Layer 1s",
+            "links": [
+              {
+                "title": "Blockchain Architecture Basics",
+                "href": "https://mlsdev.com/blog/156-how-to-build-your-own-blockchain-architecture"
+              },
+              {
+                "title": "Blockchain Expert Explains One Concept in 5 Levels of Difficulty | WIRED",
+                "href": "https://www.youtube.com/watch?v=hYip_Vuv8J0&ab_channel=WIRED"
+              },
+              {
+                "title": "Layer 1 Blockchain Tokens: Everything You Need to Know",
+                "href": "https://www.binance.com/en/blog/fiat/layer-1-blockchain-tokens-everything-you-need-to-know-421499824684903155"
+              },
+              {
+                "title": "What is blockchain?",
+                "href": "https://www.odysseydao.com/articles/what-is-blockchain"
+              },
+              {
+                "title": "Layer 1 vs Layer 2",
+                "href": "https://medium.com/the-capital/layer-1-vs-layer-2-what-you-need-to-know-about-different-blockchain-layer-solutions-69f91904ce40"
+              }
+            ]
+          },
+          {
+            "title": "Smart Contracts",
+            "links": [
+              {
+                "title": "Smart Contracts Definition",
+                "href": "https://www.investopedia.com/terms/s/smart-contracts.asp"
+              },
+              {
+                "title": "Smart contracts \u2014 what are they and how to create them?",
+                "href": "https://medium.com/@concisesoftware/smart-contracts-what-are-they-and-how-to-create-them-6ddc0df1f66b"
+              },
+              {
+                "title": "Smart Contract Development tutorial for beginners",
+                "href": "https://medium.com/@blockchain_simplified/smart-contract-development-tutorial-for-beginners-540c2e8e7afa"
+              },
+              {
+                "title": "WTF is a Smart Contract in Blockchain?",
+                "href": "https://medium.com/brandlitic/what-is-a-smart-contract-in-blockchain-cc30f60ec7ef"
+              },
+              {
+                "title": "Learn Solidity 01: Writing your first Smart Contract",
+                "href": "https://medium.com/coinmonks/learn-solidity-01-writing-your-first-smart-contract-528cad29ba99"
+              }
+            ]
+          },
+          {
+            "title": "Proof-of-Work",
+            "links": [
+              {
+                "title": "What Is Proof-of-Work?",
+                "href": "https://www.coindesk.com/learn/2020/12/16/what-is-proof-of-work/"
+              },
+              {
+                "title": "What is Proof-of-Work & Why Is It Important?",
+                "href": "https://medium.com/luno/what-is-proof-of-work-why-is-it-important-1e239b217d1f"
+              },
+              {
+                "title": "Proof of Work VS Proof of Stake",
+                "href": "https://myterablock.medium.com/proof-of-work-vs-proof-of-stake-b564f230b4ea"
+              },
+              {
+                "title": "Simply Explained: Why is Proof of Work Required in Bitcoin?",
+                "href": "https://medium.com/coinmonks/simply-explained-why-is-proof-of-work-required-in-bitcoin-611b143fc3e0"
+              },
+              {
+                "title": "Proof of Stake vs. Proof of Work in Cryptocurrencies",
+                "href": "https://medium.com/geekculture/proof-of-stake-vs-proof-of-work-in-cryptocurrencies-f558dbbaec4d"
+              }
+            ]
+          },
+          {
+            "title": "Proof-of-Stake",
+            "links": [
+              {
+                "title": "What Is Proof of Stake (PoS) in Crypto?",
+                "href": "PoS in Crypto?]"
+              },
+              {
+                "title": "Understanding Proof of Stake through it\u2019s Flaws (Pt. 1)",
+                "href": "Pt. 1]"
+              },
+              {
+                "title": "Transition to Proof of Stake might not be \u2018all shades of good\u2019.",
+                "href": "https://medium.datadriveninvestor.com/transition-to-proof-of-stake-might-not-be-all-shades-of-good-3523c8e6e1b"
+              },
+              {
+                "title": "Proof of Stake \u2014 What is and how does it work?",
+                "href": "https://medium.com/nerd-for-tech/proof-of-stake-what-is-and-how-does-it-work-1c8bd7f00303#:~:text=In%20proof%20of%20stake%2C%20block,block%20and%20win%20then%20reward."
+              },
+              {
+                "title": "Understanding Proof-of-Stake: Suggested Benefits",
+                "href": "https://medium.com/coinmonks/understanding-proof-of-stake-suggested-benefits-part-1-a0d97546e6c9"
+              }
+            ]
+          },
+          {
+            "title": "Sharding",
+            "links": [
+              {
+                "title": "Shard chains",
+                "href": "https://ethereum.org/en/upgrades/shard-chains/"
+              },
+              {
+                "title": "What is Sharding? - Coindesk",
+                "href": "https://www.coindesk.com/learn/2020/12/02/what-is-sharding/"
+              },
+              {
+                "title": "How Sharding Works",
+                "href": "https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6"
+              },
+              {
+                "title": "What Is Sharding and Why Does It Matter?",
+                "href": "https://medium.com/@AxelUnlimited/what-is-sharding-and-why-does-it-matter-2b4710ef6a7e"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "ICOs",
+        "subtopics": [
+          {
+            "title": "Celebrity ICOs",
+            "links": [
+              {
+                "title": "Celebrity Endorsed ICO Projects - Where Are They Now?",
+                "href": "https://bitcoinist.com/celebrity-endorsed-ico-projects-where-are-they-now/"
+              },
+              {
+                "title": "SEC Statement Urging Caution Around Celebrity Backed ICOs",
+                "href": "https://www.sec.gov/news/public-statement/statement-potentially-unlawful-promotion-icos"
+              },
+              {
+                "title": "Celebs and ICOs: The Makings of a Dangerous Duo",
+                "href": "https://cointelegraph.com/news/celebs-and-icos-the-makings-of-a-dangerous-duo"
+              },
+              {
+                "title": "Celebrity-endorsed ICOs are a dumpster fire of epic proportions",
+                "href": "https://thenextweb.com/news/celebrity-endorsed-icos-are-a-dumpster-fire-of-epic-proportions"
+              }
+            ]
+          },
+          {
+            "title": "How to ICO",
+            "links": [
+              {
+                "title": "What Is An ICO? - Investopedia",
+                "href": "https://www.investopedia.com/news/what-ico/"
+              },
+              {
+                "title": "Initial Coin Offering (ICO) - Overview, Types, and How it Works",
+                "href": "ICO - Overview, Types, and How it Works]"
+              },
+              {
+                "title": "Guide to launching an Initial Coin Offering (ICO)",
+                "href": "ICO]"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Altcoins",
+        "subtopics": [
+          {
+            "title": "Meme Coins",
+            "links": [
+              {
+                "title": "The Psychology of Meme Coins, From Actual Investors",
+                "href": "https://www.coindesk.com/markets/2021/12/30/the-psychology-of-meme-coins-from-actual-investors/"
+              },
+              {
+                "title": "What Is a Meme Coin and How Do They Work?",
+                "href": "https://www.pcmag.com/how-to/what-is-a-meme-coin-how-do-they-work"
+              },
+              {
+                "title": "Meme Coins Return to Earth as Gloom Overtakes Crypto",
+                "href": "https://www.bloomberg.com/news/articles/2022-01-06/meme-coins-return-to-earth-as-gloom-overtakes-crypto-fanatics"
+              },
+              {
+                "title": "Doggy meme coins for the win!",
+                "href": "https://medium.datadriveninvestor.com/doggy-meme-coins-for-the-win-a82e86bf6e20"
+              }
+            ]
+          },
+          {
+            "title": "Stablecoins",
+            "links": [
+              {
+                "title": "Stablecoins: What they are, how they work and how to buy them",
+                "href": "https://www.cnet.com/personal-finance/crypto/stablecoins-what-they-are-how-they-work-and-how-to-buy-them/"
+              },
+              {
+                "title": "Stablecoins are taking over the crypto world and they\u2019re a hot topic for Congress",
+                "href": "https://fortune.com/2021/12/08/stablecoins-cryptocurrency-congress/"
+              },
+              {
+                "title": "Better Than Bitcoin? Stablecoins Explained",
+                "href": "https://www.pcmag.com/how-to/better-than-bitcoin-stablecoins-explained"
+              },
+              {
+                "title": "The Useful Properties of Stablecoins",
+                "href": "https://medium.com/geekculture/the-useful-properties-of-stablecoins-475f7fa30c8e#:~:text=Stablecoins%20are%20essentially%20cryptocurrencies%20that,fixed%2C%20non%2Dvirtual%20currency."
+              },
+              {
+                "title": "Why Stablecoins Matter",
+                "href": "https://medium.com/@MakerDAO/part-1-why-stablecoins-matter-3b273e1c529e"
+              },
+              {
+                "title": "The many and varied uses of stablecoins",
+                "href": "https://medium.com/celoorg/the-many-and-varied-uses-of-stablecoins-af0b6dbf16b5"
+              }
+            ]
+          },
+          {
+            "title": "Utility Tokens",
+            "links": [
+              {
+                "title": "What is a Utility Token?",
+                "href": "https://academy.bit2me.com/en/what-is-utility-token/"
+              },
+              {
+                "title": "Utility Tokens vs. Security Tokens: What's the Difference?",
+                "href": "https://www.fool.com/investing/2021/11/16/utility-tokens-vs-security-tokens-whats-the-differ/"
+              },
+              {
+                "title": "Explaining how utility tokens work",
+                "href": "https://medium.com/coinbundle/utility-tokens-978d117290cd"
+              },
+              {
+                "title": "Utility tokens or futility tokens?",
+                "href": "https://medium.com/@listedreserve/utility-tokens-ef1da391ca6a"
+              },
+              {
+                "title": "The hidden power of Utility Tokens",
+                "href": "https://medium.com/swlh/the-hidden-power-of-utility-tokens-e846d3a5c1eb"
+              }
+            ]
+          },
+          {
+            "title": "Security tokens",
+            "links": [
+              {
+                "title": "Complete Guide to Security Tokens - How They Work Explained",
+                "href": "https://tokenist.com/investing/security-tokens-explained/"
+              },
+              {
+                "title": "Security Tokens Are Back and This Time It's Real",
+                "href": "https://www.coindesk.com/business/2021/06/30/security-tokens-are-back-and-this-time-its-real/"
+              },
+              {
+                "title": "STOs, Security Tokens, and Tokenized Securities",
+                "href": "https://www.gemini.com/cryptopedia/security-token-offering-vs-initial-coin-offering-stos"
+              },
+              {
+                "title": "Security Tokens: The next big trend",
+                "href": "https://medium.com/torre-capital/security-tokens-the-next-big-trend-which-will-revolutionize-the-private-markets-13d458349326"
+              },
+              {
+                "title": "5 Advantages of Security Tokens",
+                "href": "https://medium.com/stocheck/5-advantages-of-security-tokens-7b4a66ec3493"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Layer 2s",
+        "subtopics": [
+          {
+            "title": "Overview of Layer 2s",
+            "links": [
+              {
+                "title": "Blockchain Layer 1 vs. Layer 2: Things You Must Know",
+                "href": "https://learn.bybit.com/blockchain/blockchain-layer-1-vs-layer-2/#What_Is_the_Future_After_Layer_1_and_Layer_2"
+              },
+              {
+                "title": "Layer 1 vs Layer 2 : What you need to know about different Blockchain Layer solutions",
+                "href": "https://medium.com/the-capital/layer-1-vs-layer-2-what-you-need-to-know-about-different-blockchain-layer-solutions-69f91904ce40"
+              },
+              {
+                "title": "What is Layer 2 Scaling Solutions & Why It Is Required?",
+                "href": "https://medium.com/crypto-wisdom/what-is-layer-2-scaling-solutions-why-it-is-required-66b8dbf3bc9c"
+              },
+              {
+                "title": "Understanding DeFi: Layer 2 explained",
+                "href": "https://medium.com/monolith/understanding-defi-layer-2-explained-6981ef6c8990"
+              },
+              {
+                "title": "Layer 2 Won\u2019t Save Ethereum",
+                "href": "https://jim.mirror.xyz/-Gb-aqKYcCoxrZ_aSD6IUBt4xtrt8odsa5lyYjdCnRM"
+              },
+              {
+                "title": "Ethereum Layer 2 Scaling Solutions Demystified",
+                "href": "https://medium.com/coinmonks/ethereum-layer-2-scaling-solutions-demystified-991eeffb93bd"
+              }
+            ]
+          },
+          {
+            "title": "Zero Knowledge Proofs",
+            "links": [
+              {
+                "title": "Zero Knowledge Proof: Explain it Like I\u2019m 5 (Halloween Edition)",
+                "href": "Halloween Edition]"
+              },
+              {
+                "title": "Zero Knowledge Proof: how to maintain privacy in a data-based world",
+                "href": "http://bbva.com/en/zero-knowledge-proof-how-to-maintain-privacy-in-a-data-based-world/"
+              },
+              {
+                "title": "What are Zero Knowledge Proofs?",
+                "href": "https://decrypt.co/resources/zero-knowledge-proofs-explained-learn-guide"
+              }
+            ]
+          },
+          {
+            "title": "Sidechains",
+            "links": [
+              {
+                "title": "What are Sidechains?",
+                "href": "https://hackernoon.com/what-are-sidechains-1c45ea2daf3"
+              },
+              {
+                "title": "A Comprehensive Guide on Sidechains, RSK & Liquid",
+                "href": "https://www.blockchain-council.org/blockchain/a-comprehensive-guide-on-sidechains-rsk-liquid/"
+              },
+              {
+                "title": "Solving Blockchain's Scaling Problem using Sidechains",
+                "href": "https://medium.com/iosg-ventures/solving-the-scaling-problem-using-sidechains-51c1c60fd782"
+              },
+              {
+                "title": "Blockchain Interoperability \u2014 Sidechains",
+                "href": "https://medium.com/coinmonks/blockchain-interoperability-sidechains-e8204b8c2a10"
+              },
+              {
+                "title": "21 Million Bitcoins to Rule all Sidechains",
+                "href": "https://medium.com/@RubenSomsen/21-million-bitcoins-to-rule-all-sidechains-the-perpetual-one-way-peg-96cb2f8ac302"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "DeFi",
+        "subtopics": [
+          {
+            "title": "Auto-Compound",
+            "links": [
+              {
+                "title": "How to Auto-compound",
+                "href": "https://medium.com/@datnoid/how-to-auto-compound-a0d62fc7866e"
+              },
+              {
+                "title": "Step by step tutorial for auto-compounding and farming",
+                "href": "https://medbid.medium.com/step-by-step-tutorial-for-staking-and-farming-at-acryptos-com-42093a0fcb1d"
+              },
+              {
+                "title": "What is Auto Compound?",
+                "href": "https://support.cakedefi.com/hc/en-us/articles/360035528212-What-is-Auto-Compound-"
+              }
+            ]
+          },
+          {
+            "title": "Blockchain Bridging",
+            "links": [
+              {
+                "title": "What Are Blockchain Bridges and Why Do We Need Them?",
+                "href": "https://blog.liquid.com/blockchain-cross-chain-bridge"
+              },
+              {
+                "title": "How $323M in crypto was stolen from a blockchain bridge",
+                "href": "https://arstechnica.com/information-technology/2022/02/how-323-million-in-crypto-was-stolen-from-a-blockchain-bridge-called-wormhole/"
+              },
+              {
+                "title": "Cross-Chain Bridge | Connecting Blockchains",
+                "href": "https://crosschainbridge.org/"
+              },
+              {
+                "title": "Blockchain Bridges: Building Networks of Cryptonetworks",
+                "href": "https://medium.com/1kxnetwork/blockchain-bridges-5db6afac44f8"
+              },
+              {
+                "title": "Bridges in Crypto-Space - Medium",
+                "href": "https://medium.com/chainsafe-systems/bridges-in-crypto-space-12e158f5fd1e"
+              },
+              {
+                "title": "A note on bridges & layer-2 protocols",
+                "href": "https://stonecoldpat.medium.com/a-note-on-bridges-layer-2-protocols-b01f8fc22324"
+              }
+            ]
+          },
+          {
+            "title": "Decentralized Finance",
+            "links": [
+              {
+                "title": "Decentralized Finance (DeFi) Definition",
+                "href": "DeFi Definition]"
+              },
+              {
+                "title": "Decentralized finance (DeFi)",
+                "href": "DeFi]"
+              },
+              {
+                "title": "Guide To Decentralized Finance",
+                "href": "https://finematics.com/guide-to-decentralized-finance/"
+              },
+              {
+                "title": "All you need to know about Decentralized Finance",
+                "href": "https://medium.com/@blockchain_simplified/all-you-need-to-know-about-decentralized-finance-defi-8fe956463724"
+              },
+              {
+                "title": "DeFi risks",
+                "href": "https://www.bis.org/publ/qtrpdf/r_qt2112b.htm"
+              }
+            ]
+          },
+          {
+            "title": "Decentralized Exchanges",
+            "links": [
+              {
+                "title": "What are decentralized exchanges, and how do DEXs work?",
+                "href": "https://cointelegraph.com/defi-101/what-are-decentralized-exchanges-and-how-do-dexs-work"
+              },
+              {
+                "title": "Top Cryptocurrency Decentralized Exchanges",
+                "href": "https://coinmarketcap.com/rankings/exchanges/dex/"
+              },
+              {
+                "title": "Decentralized Crypto Exchanges: Here's What You Need To Know",
+                "href": "https://www.ndtv.com/business/what-are-decentralised-crypto-exchanges-2579017"
+              },
+              {
+                "title": "Centralized and Decentralized Exchanges",
+                "href": "https://medium.com/coinmonks/centralized-and-decentralized-exchanges-which-ones-to-choose-217c4f8c2f42"
+              },
+              {
+                "title": "Why decentralized exchanges are more important than ever",
+                "href": "https://medium.com/coinmonks/why-decentralized-exchanges-are-more-important-than-ever-and-how-they-work-1f07df6e852f"
+              },
+              {
+                "title": "A Super-Simplified Explanation of DEX",
+                "href": "https://medium.com/geekculture/what-is-a-dex-centralized-vs-decentralized-cryptocurrency-exchanges-88aaf766b239"
+              },
+              {
+                "title": "Market Abuses in Decentralized Exchanges",
+                "href": "https://medium.com/community-economics-by-forte/market-abuses-in-decentralized-exchanges-fb4265069ab5"
+              }
+            ]
+          },
+          {
+            "title": "Flash Loans",
+            "links": [
+              {
+                "title": "What Is a Flash Loan? - CoinDesk",
+                "href": "https://www.coindesk.com/learn/2021/02/17/what-is-a-flash-loan/"
+              },
+              {
+                "title": "What Are Flash Loans? The DeFi Lending Phenomenon",
+                "href": "https://decrypt.co/resources/what-are-flash-loans-the-defi-lending-phenomenon-explained"
+              },
+              {
+                "title": "How do Flash Loans Work? - Full Walkthrough",
+                "href": "https://moralis.io/how-do-flash-loans-work-full-walkthrough/"
+              },
+              {
+                "title": "All You Need to Know About DeFi Flash Loans",
+                "href": "https://medium.com/coinmonks/all-you-need-to-know-about-defi-flash-loans-ca0ff4592d90#:~:text=Flash%20Loans%20is%20a%20non,happen%20in%201%20unique%20transaction."
+              },
+              {
+                "title": "Features, Types, and How To Prevent Flash Loan Attacks",
+                "href": "https://medium.com/umbrella-network/flash-loans-101-features-types-and-how-to-prevent-flash-loan-attacks-6ea5f9386fa"
+              },
+              {
+                "title": "Maximizing Your Arbitrage: Flash Loans",
+                "href": "https://medium.datadriveninvestor.com/maximizing-your-arbitrage-flash-loans-2cbb4c99ed80"
+              }
+            ]
+          },
+          {
+            "title": "Miner Extraction Value",
+            "links": [
+              {
+                "title": "What Is Miner-Extractable Value (MEV)?",
+                "href": "MEV?]"
+              },
+              {
+                "title": "What Is MEV? Ethereum's Invisible Tax Explained",
+                "href": "https://cryptobriefing.com/what-is-mev-ethereums-invisible-tax-explained/"
+              },
+              {
+                "title": "Estimating (Miner) Extractable Value is Hard, Let's Go Shopping!",
+                "href": "Miner Extractable Value is Hard, Let's Go Shopping!]"
+              },
+              {
+                "title": "Quantifying MEV",
+                "href": "https://medium.com/flashbots/quantifying-mev-introducing-mev-explore-v0-5ccbee0f6d02"
+              },
+              {
+                "title": "What every trader should know about MEV",
+                "href": "https://medium.com/alchemistcoin/what-every-trader-should-know-about-mev-the-mev-crisis-explained-fdf19f6a75bd"
+              }
+            ]
+          },
+          {
+            "title": "Nodes",
+            "links": [
+              {
+                "title": "Blockchain Nodes: An In-Depth Guide",
+                "href": "https://nodes.com/"
+              },
+              {
+                "title": "Nodes - Goodbit",
+                "href": "https://goodbit101.com/learn/nodes"
+              },
+              {
+                "title": "What Is a Node? - Crypto Basics",
+                "href": "https://coinmarketcap.com/alexandria/article/what-is-a-node"
+              },
+              {
+                "title": "Node (cryptocurrency network) \u2013 definition and examples",
+                "href": "cryptocurrency network \u2013 definition and examples]"
+              },
+              {
+                "title": "What Are Nodes? 7 Types of Blockchain Nodes",
+                "href": "https://www.sofi.com/learn/content/what-are-nodes/"
+              },
+              {
+                "title": "Blockchain nodes and mining, explained",
+                "href": "https://medium.com/@venkat.kasthala/how-does-mining-work-in-blockchain-b4fc5f7f3209"
+              }
+            ]
+          },
+          {
+            "title": "Staking",
+            "links": [
+              {
+                "title": "What Are Staking Tokens? How It Differ From Other Tokens?",
+                "href": "https://www.yahoo.com/now/staking-tokens-differ-other-tokens-121802034.html#:~:text=What%20is%20Staking%3F&text=Staking%20cryptocurrency%20implies%20committing%20crypto,transactions%20based%20on%20staked%20currencies."
+              },
+              {
+                "title": "What is Crypto Staking?",
+                "href": "https://www.sofi.com/learn/content/crypto-staking/"
+              },
+              {
+                "title": "Crypto Tax Pros Throw Cold Water on Staking Excitement",
+                "href": "https://www.coindesk.com/policy/2022/02/09/crypto-tax-pros-throw-cold-water-on-staking-excitement/"
+              },
+              {
+                "title": "Explained: How To Earn Passive Income Via Crypto Staking",
+                "href": "https://www.cnbctv18.com/cryptocurrency/crypto-staking-heres-how-you-can-earn-passive-income-11924562.htm"
+              },
+              {
+                "title": "What is Crypto Staking and How it Works",
+                "href": "https://medium.com/brandlitic/what-is-crypto-staking-and-how-it-works-explained-2c9c8a3ce87c"
+              }
+            ]
+          },
+          {
+            "title": "Gas",
+            "links": [
+              {
+                "title": "What Are Ethereum Gas Fees?",
+                "href": "https://www.coindesk.com/learn/what-are-ethereum-gas-fees/"
+              },
+              {
+                "title": "A short guide to Ethereum gas fees",
+                "href": "https://medium.com/coinmonks/a-short-guide-to-ethereum-gas-fees-5c4c53a05feb"
+              },
+              {
+                "title": "Ethereum Gas Explained in Plain English",
+                "href": "https://medium.com/coinmonks/ethereum-gas-explained-in-plain-english-d9e60a699c54"
+              },
+              {
+                "title": "Gas Wars",
+                "href": "https://bloodgoodbtc.medium.com/gas-wars-2facbebb44d4"
+              },
+              {
+                "title": "Why is my Transaction so slow?",
+                "href": "https://medium.com/kogecoin/why-is-my-transaction-so-slow-understanding-gas-4b50b69c7e9a?source=rss------cryptocurrency-5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Working in Web3",
+        "subtopics": [
+          {
+            "title": "General Overview",
+            "links": [
+              {
+                "title": "Working in Web3: The Handbook",
+                "href": "https://web3.smsunarto.com/"
+              },
+              {
+                "title": "How Web2 Workers Can Join the Web3 Revolution",
+                "href": "https://medium.com/immunefi/how-web2-workers-can-join-the-web3-revolution-6fe54361f85"
+              },
+              {
+                "title": "Why you want to work in Web3 instead of Web2",
+                "href": "https://medium.com/@talentprotocol/why-you-want-to-work-in-web3-instead-of-web2-18c49de669b9"
+              },
+              {
+                "title": "What the hell is Web3? Here's an explanation, in plain English.",
+                "href": "https://medium.com/g20-ventures/what-the-hell-is-web3-heres-an-explanation-in-plain-english-b223108b5ffb"
+              },
+              {
+                "title": "How To Get a Job in Web3",
+                "href": "https://medium.com/ankr-network/how-to-get-a-job-in-web3-b68cfca0387d?source=rss----c0fbca858249---4"
+              },
+              {
+                "title": "Know Python & JavaScript? You Can Develop on Web3!",
+                "href": "https://medium.com/ankr-network/know-python-javascript-you-can-develop-on-web3-51733e95d0a2?source=rss----c0fbca858249---4"
+              }
+            ]
+          },
+          {
+            "title": "Coding in Web3",
+            "links": [
+              {
+                "title": "A guide to Web3 for Web2 frontend devs",
+                "href": "https://mirror.xyz/dhaiwat.eth/O5CK6Tjfv8uhl6FPbjT0yZ8LUwViDPWGYHdu9khRWpM"
+              },
+              {
+                "title": "How to Break into Ethereum, Crypto, and Web3 as a Developer",
+                "href": "https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/"
+              },
+              {
+                "title": "CryptoZombies: #1 Solidity Tutorial",
+                "href": "https://cryptozombies.io/"
+              },
+              {
+                "title": "The Complete Guide to Full Stack Ethereum Development",
+                "href": "https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13"
+              },
+              {
+                "title": "The Ultimate Smart Contract Developer Roadmap - From Zero To Hero",
+                "href": "https://blog.oliverjumpertz.dev/the-ultimate-smart-contract-developer-roadmap"
+              },
+              {
+                "title": "Develop your first Dapp with Web3.js",
+                "href": "https://medium.com/nerd-for-tech/develop-your-first-dapp-with-web3-js-d19354925df0"
+              },
+              {
+                "title": "Smart Contract and Web3! All that you need to know.",
+                "href": "https://medium.com/white-matrix/smart-contract-and-web3-all-that-you-need-to-know-d6de2c2e68db"
+              },
+              {
+                "title": "How To Get Into Crypto? 2022 Roadmap For A Web3 Developer",
+                "href": "https://medium.com/theweb3stack/how-to-get-into-crypto-a-roadmap-for-a-web3-developer-4a5806f61869"
+              },
+              {
+                "title": "Develop your first Dapp with Web3.js",
+                "href": "https://medium.com/nerd-for-tech/develop-your-first-dapp-with-web3-js-d19354925df0"
+              },
+              {
+                "title": "Smart Contract and Web3! All that you need to know.",
+                "href": "https://medium.com/white-matrix/smart-contract-and-web3-all-that-you-need-to-know-d6de2c2e68db"
+              },
+              {
+                "title": "How to Write for The Web3 Stack",
+                "href": "https://medium.com/theweb3stack/how-to-write-for-the-web3-stack-9d0c7868ae4e"
+              }
+            ]
+          },
+          {
+            "title": "Creator/Ownership Economy",
+            "links": [
+              {
+                "title": "Power to the Person",
+                "href": "https://www.notboring.co/p/power-to-the-person-audio"
+              },
+              {
+                "title": "The Ownership Economy",
+                "href": "https://variant.fund/writing/the-ownership-economy-crypto-and-consumer-software"
+              },
+              {
+                "title": "Web3 Creator Onboarding",
+                "href": "https://coopahtroopa.mirror.xyz/kCGOB_emlN-bovuRCQN-5qcH2x4cHmLtR0sHI6ZIVs0"
+              },
+              {
+                "title": "Web3 Is the Future of the Creator Economy",
+                "href": "https://www.entrepreneur.com/article/403948"
+              },
+              {
+                "title": "Breaking Ownership, the Web3.0 Journey of Creator Economy",
+                "href": "https://medium.com/coinmonks/breaking-ownership-the-web3-0-journey-of-creator-economy-362a9a4f6dc"
+              },
+              {
+                "title": "How Web3 Helps Creators Monetize Their Content",
+                "href": "https://bravenewcoin.com/insights/how-web3-helps-creators-monetize-their-content"
+              },
+              {
+                "title": "Content is King: How Web 3.0 Can Impact the Creator Economy",
+                "href": "https://athelogroup.com/blog/content-is-king-how-web-3-0-can-impact-the-creator-economy/"
+              }
+            ]
+          },
+          {
+            "title": "Joining a DAO",
+            "links": [
+              {
+                "title": "A Complete Guide To Get You Started In DAOs",
+                "href": "https://medium.com/visionary-hub/a-complete-guide-to-get-you-started-in-daos-2fbcfbab1ed5"
+              },
+              {
+                "title": "How to Join a DAO",
+                "href": "https://blog.aragon.org/how-to-join-a-dao/"
+              },
+              {
+                "title": "Top 10 DAOs to Join as a member in 2022",
+                "href": "https://itsblockchain.com/top-ten-daos-to-join-in-2022/"
+              },
+              {
+                "title": "Decentralized Autonomous Organization (DAO) - Investopedia",
+                "href": "DAO - Investopedia]"
+              },
+              {
+                "title": "Understanding DAOStack and joining a DAO",
+                "href": "https://seandotau.medium.com/understanding-daostack-and-joining-a-dao-ee0d8bc99f2"
+              },
+              {
+                "title": "How to join a DAO. Discover, Onboard, Contribute",
+                "href": "https://medium.com/coinmonks/how-to-join-a-dao-cfae5577e8f9"
+              },
+              {
+                "title": "Join a Union\u2014but Also Join a DAO",
+                "href": "https://www.thenation.com/article/society/dao-crypto-union/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Exciting Projects",
+        "subtopics": [
+          {
+            "title": "Bitcoin",
+            "links": [
+              {
+                "title": "Bitcoin Whitepaper",
+                "href": "https://bitcoin.org/bitcoin.pdf"
+              },
+              {
+                "title": "What is Bitcoin?",
+                "href": "https://www.odysseydao.com/articles/what-is-bitcoin"
+              },
+              {
+                "title": "Bitcoin becomes the Flag of Technology",
+                "href": "https://nakamoto.com/bitcoin-becomes-the-flag-of-technology/"
+              },
+              {
+                "title": "Bitcoin vs. Ethereum: What\u2019s the Difference?",
+                "href": "https://www.investopedia.com/articles/investing/031416/bitcoin-vs-ethereum-driven-different-purposes.asp"
+              },
+              {
+                "title": "Bitcoin becomes the Flag of Technology",
+                "href": "https://nakamoto.com/bitcoin-becomes-the-flag-of-technology/"
+              }
+            ]
+          },
+          {
+            "title": "Ethereum",
+            "links": [
+              {
+                "title": "Ethereum Whitepaper",
+                "href": "https://ethereum.org/en/whitepaper/"
+              },
+              {
+                "title": "Own the Internet",
+                "href": "https://www.notboring.co/p/own-the-internet"
+              },
+              {
+                "title": "A gentle introduction to Ethereum",
+                "href": "https://bitsonblocks.net/2016/10/02/gentle-introduction-ethereum/"
+              },
+              {
+                "title": "What Is Ethereum?",
+                "href": "https://academy.binance.com/en/articles/what-is-ethereum#what-is-ethereum-sharding"
+              },
+              {
+                "title": "ETHEREUM VIRTUAL MACHINE (EVM)",
+                "href": "EVM]"
+              },
+              {
+                "title": "The Year in Ethereum 2021",
+                "href": "https://stark.mirror.xyz/q3OnsK7mvfGtTQ72nfoxLyEV5lfYOqUfJIoKBx7BG1I"
+              },
+              {
+                "title": "What is EIP-1559? How Will It Change Ethereum?",
+                "href": "https://consensys.net/blog/quorum/what-is-eip-1559-how-will-it-change-ethereum/"
+              },
+              {
+                "title": "What Crypto Users Need to Know: The ERC20 Standard",
+                "href": "https://www.investopedia.com/tech/why-crypto-users-need-know-about-erc20-token-standard/#:~:text=An%20ERC20%20token%20is%20a,standard%20was%20implemented%20in%202015."
+              },
+              {
+                "title": "What Is ERC-20 and What Does It Mean for Ethereum?",
+                "href": "https://www.investopedia.com/news/what-erc20-and-what-does-it-mean-ethereum/"
+              }
+            ]
+          },
+          {
+            "title": "Solana",
+            "links": [
+              {
+                "title": "Solana website",
+                "href": "https://solana.com/"
+              },
+              {
+                "title": "What Is Solana And How Does It Work?",
+                "href": "https://www.bankrate.com/investing/what-is-solana/"
+              },
+              {
+                "title": "Solana vs Ethereum: A Detailed Comparison",
+                "href": "https://coinmarketcap.com/alexandria/article/solana-vs-ethereum-a-detailed-comparison#:~:text=While%20Ethereum%20currently%20follows%20PoW,speed%20and%20low%2Dcost%20transactions."
+              },
+              {
+                "title": "Why You Need 100 Solana Now",
+                "href": "https://medium.com/coinmonks/why-you-need-100-solana-now-1e181dc6e1de"
+              }
+            ]
+          },
+          {
+            "title": "Cardano",
+            "links": [
+              {
+                "title": "Cardano Website",
+                "href": "https://cardano.org/"
+              },
+              {
+                "title": "What is Cardano? | Coinbase",
+                "href": "https://www.coinbase.com/learn/crypto-basics/what-is-cardano"
+              },
+              {
+                "title": "What Is Cardano And How Does It Work?",
+                "href": "https://www.bankrate.com/investing/what-is-cardano/"
+              },
+              {
+                "title": "7 Things to Know Before You Buy Cardano (ADA)",
+                "href": "ADA]"
+              }
+            ]
+          },
+          {
+            "title": "XRP",
+            "links": [
+              {
+                "title": "XRP: Digital Asset for Real-Time Global Payments",
+                "href": "https://ripple.com/xrp/"
+              },
+              {
+                "title": "Ripple (XRP) - Whitepaper.io",
+                "href": "XRP - Whitepaper.io]"
+              },
+              {
+                "title": "The Beginner's Guide to Ripple (XRP)",
+                "href": "XRP]"
+              },
+              {
+                "title": "XRP \u2014 A Dead Coin Walking?",
+                "href": "https://medium.com/coinmonks/xrp-a-dead-coin-walking-336fb339768a"
+              },
+              {
+                "title": "The potential of Ripple and XRP",
+                "href": "https://medium.com/coinmonks/the-potential-of-ripple-and-xrp-still-good-investment-before-they-pumo-de6c8a3f386f"
+              }
+            ]
+          },
+          {
+            "title": "Polkadot",
+            "links": [
+              {
+                "title": "Polkadot Website",
+                "href": "https://polkadot.network/"
+              },
+              {
+                "title": "What is Polkadot (DOT)?",
+                "href": "DOT?]"
+              },
+              {
+                "title": "How To Easily Understand Polkadot",
+                "href": "https://medium.com/coinmonks/how-to-easily-understand-polkadot-a-quick-behind-the-scenes-look-2992611460e7"
+              },
+              {
+                "title": "The Polkadot Parachains Shows The Power In Community",
+                "href": "https://medium.datadriveninvestor.com/the-polkadot-parachains-shows-the-power-in-community-896005350c93"
+              }
+            ]
+          },
+          {
+            "title": "Uniswap",
+            "links": [
+              {
+                "title": "What Is Uniswap? A Complete Beginner's Guide",
+                "href": "https://www.coindesk.com/business/2021/02/04/what-is-uniswap-a-complete-beginners-guide/"
+              },
+              {
+                "title": "7 Things to Know Before You Buy Uniswap",
+                "href": "https://www.fool.com/the-ascent/cryptocurrency/articles/7-things-to-know-before-you-buy-uniswap-uni/"
+              },
+              {
+                "title": "What Is Uniswap (UNI) and How Does It Work?",
+                "href": "UNI and How Does It Work?]"
+              },
+              {
+                "title": "Uniswap Whitepaper",
+                "href": "https://hackmd.io/@HaydenAdams/HJ9jLsfTz"
+              }
+            ]
+          },
+          {
+            "title": "CryptoPunks",
+            "links": [
+              {
+                "title": "CryptoPunks - Larva Labs",
+                "href": "https://www.larvalabs.com/cryptopunks"
+              },
+              {
+                "title": "CryptoPunks - Collection | OpenSea",
+                "href": "https://opensea.io/collection/cryptopunks"
+              },
+              {
+                "title": "What Are CryptoPunks? The Ethereum NFT Sensation",
+                "href": "https://decrypt.co/resources/what-are-cryptopunks-ethereum-nft-avatars"
+              },
+              {
+                "title": "10 things to know about CryptoPunks, the original NFTs",
+                "href": "https://www.christies.com/features/10-things-to-know-about-CryptoPunks-11569-1.aspx"
+              },
+              {
+                "title": "What Are CryptoPunks and Why Are They Worth So Much?",
+                "href": "https://www.gobankingrates.com/investing/crypto/cryptopunk/"
+              }
+            ]
+          },
+          {
+            "title": "Bored Ape Yacht Club",
+            "links": [
+              {
+                "title": "Bored Ape Yacht Club Website",
+                "href": "https://boredapeyachtclub.com/"
+              },
+              {
+                "title": "Bored Ape Yacht Club - Collection | OpenSea",
+                "href": "https://opensea.io/collection/boredapeyachtclub"
+              },
+              {
+                "title": "Bored Ape Yacht Club: What you need to know about the NFTs",
+                "href": "https://www.cnet.com/how-to/bored-ape-yacht-club-what-you-need-to-know-about-the-nft-collection/"
+              },
+              {
+                "title": "What is Bored Ape Yacht Club? The Celebrity NFT of Choice",
+                "href": "https://decrypt.co/resources/what-is-bored-ape-yacht-club-the-celebrity-nft-of-choice"
+              },
+              {
+                "title": "Why Bored Ape Avatars Are Taking Over Twitter",
+                "href": "https://www.newyorker.com/culture/infinite-scroll/why-bored-ape-avatars-are-taking-over-twitter"
+              }
+            ]
+          },
+          {
+            "title": "Cool Cats",
+            "links": [
+              {
+                "title": "Cool Cats Website",
+                "href": "https://www.coolcatsnft.com/"
+              },
+              {
+                "title": "NFTs Get Gamified: Cool Cats Launches Cool Pets",
+                "href": "https://www.businesswire.com/news/home/20220131005280/en/NFTs-Get-Gamified-Cool-Cats-Launches-Cool-Pets-One-of-the-First-Crowdsourced-NFTs"
+              },
+              {
+                "title": "Quick guide to Cool Cats Pets - Metaversal",
+                "href": "https://metaversal.banklesshq.com/p/quick-guide-to-cool-cats-pets"
+              },
+              {
+                "title": "The Mind-Blowing Math of the Cool Cats / Cool Pets NFT Drop",
+                "href": "https://medium.com/web-design-web-developer-magazine/the-mind-blowing-math-of-the-cool-cats-cool-pets-nft-drop-59cdcd840dc7"
+              }
+            ]
+          },
+          {
+            "title": "NBA Top Shot",
+            "links": [
+              {
+                "title": "NBA Top Shot Website",
+                "href": "https://nbatopshot.com/"
+              },
+              {
+                "title": "Marketplace",
+                "href": "https://nbatopshot.com/search"
+              },
+              {
+                "title": "NBA Top Shot: $230 million spent trading video highlights",
+                "href": "https://www.cnbc.com/2021/02/28/230-million-dollars-spent-on-nba-top-shot.html"
+              },
+              {
+                "title": "NBA Top Shot, one year later: The evolution of the sports NFT",
+                "href": "https://theathletic.com/3090901/2022/01/25/nba-top-shot-one-year-later-the-evolution-of-the-sports-nft-boom-and-the-risks-that-still-surround-it-all/"
+              },
+              {
+                "title": "How 'Put That on Top Shot!' Became a New NBA Mantra",
+                "href": "https://www.nytimes.com/2021/05/13/business/nba-top-shot-moments.html"
+              }
+            ]
+          },
+          {
+            "title": "Decentraland",
+            "links": [
+              {
+                "title": "Decentraland Website",
+                "href": "https://decentraland.org/"
+              },
+              {
+                "title": "What is Decentraland? (MANA)",
+                "href": "MANA]"
+              },
+              {
+                "title": "Decentraland Tutorial - What is it and how to play?",
+                "href": "https://cryptoticker.io/en/decentraland-tutorial-how-to-play/"
+              },
+              {
+                "title": "A Complete Beginners Guide to Decentraland",
+                "href": "https://itsblockchain.com/decentraland-complete-beginners-guide/"
+              }
+            ]
+          },
+          {
+            "title": "Bankless",
+            "links": [
+              {
+                "title": "Bankless DAO",
+                "href": "https://www.bankless.community/"
+              },
+              {
+                "title": "Announcing Bankless DAO . The revolution will not be banked.",
+                "href": "https://medium.com/bankless-dao/announcing-bankless-dao-133220f5efd8"
+              },
+              {
+                "title": "banklessDAO - Twitter",
+                "href": "https://twitter.com/banklessdao"
+              }
+            ]
+          },
+          {
+            "title": "Axie Infinity",
+            "links": [
+              {
+                "title": "Axie Infinity Website",
+                "href": "https://axieinfinity.com/"
+              },
+              {
+                "title": "Whitepaper",
+                "href": "https://whitepaper.axieinfinity.com/"
+              },
+              {
+                "title": "How Axie Infinity is turning gaming on its head",
+                "href": "https://www.theverge.com/2021/10/13/22725083/axie-infinity-sky-mavis-blockchain-economy-game-pokemon"
+              },
+              {
+                "title": "What is Axie Infinity?",
+                "href": "https://decrypt.co/resources/what-is-axie-infinity-the-play-to-earn-nft-game-taking-crypto-by-storm"
+              },
+              {
+                "title": "Deconstructing Axie Infinity: Is Play to Earn the Future?",
+                "href": "https://medium.com/ironsource-levelup/deconstructing-axie-infinity-is-play-to-earn-the-future-bc3f32af2f2a"
+              }
+            ]
+          },
+          {
+            "title": "Friends with Benefits",
+            "links": [
+              {
+                "title": "Friends With Benefits Website",
+                "href": "https://www.fwb.help/"
+              },
+              {
+                "title": "What's Next for Friends With Benefits?",
+                "href": "https://www.coindesk.com/layer2/culture-week/2021/12/16/whats-next-for-friends-with-benefits/"
+              },
+              {
+                "title": "Investing in Friends With Benefits (a DAO)",
+                "href": "a DAO]"
+              },
+              {
+                "title": "Friends With Benefits: A New Model for Social Tokens",
+                "href": "https://consensys.net/blog/codefi/friends-with-benefits-a-new-model-for-social-tokens-on-ethereum/"
+              }
+            ]
+          },
+          {
+            "title": "Flamingo DAO",
+            "links": [
+              {
+                "title": "Flamingo DAO Website",
+                "href": "https://flamingodao.xyz/"
+              },
+              {
+                "title": "3 minutes to understand Flamingo",
+                "href": "https://blockcast.cc/news/3-minutes-to-understand-flamingo-a-new-platform-integrating-nft-and-dao/"
+              },
+              {
+                "title": "Flamingo DAO: Creating Organizations Built For The Internet",
+                "href": "https://www.thenifty.com/flamingo-dao-interview-918"
+              }
+            ]
+          },
+          {
+            "title": "ConstitutionDAO",
+            "links": [
+              {
+                "title": "ConstitutionDAO Website",
+                "href": "https://www.constitutiondao.com/"
+              },
+              {
+                "title": "What is a DAO and how did it almost buy the US Constitution?",
+                "href": "https://www.weforum.org/agenda/2021/11/what-is-a-dao-cryptocurrency-group/"
+              },
+              {
+                "title": "From a meme to $47 million",
+                "href": "https://www.theverge.com/22820563/constitution-meme-47-million-crypto-crowdfunding-blockchain-ethereum-constitution"
+              },
+              {
+                "title": "Tokens of the defunct DAO that failed to buy a copy of the constitution are worth $300 million even after disbanding",
+                "href": "https://markets.businessinsider.com/news/currencies/constituiondao-people-tokens-price-300-million-value-constitution-nft-dao-2022-1"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

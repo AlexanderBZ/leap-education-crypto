@@ -7,17 +7,9 @@ import ChevronRightIcon from "@mui/icons-material/ChevronRight";
 import TopicContainer from "../Topics/TopicContainer";
 
 const SingleTopicPreview = ({ topic }) => {
-  const { name, symbol, description, icon } = topic;
   const [showTopic, setShowTopic] = useState(false);
 
   const toggleOpen = () => setShowTopic(!showTopic);
-
-  /*"../../../markdown/Leap 29d0c51d2745429fa954d877a4f94b99"
-  <Image
-    className={cryptoStyles.icon}
-    src={`../../../images/${name.replaceAll(" ", "-").toLowerCase()}.svg`}
-    alt=""
-  />*/
 
   return (
     <div>
@@ -35,25 +27,21 @@ const SingleTopicPreview = ({ topic }) => {
         }}
         onClick={toggleOpen}
       >
-        <Image className={cryptoStyles.icon} src={icon} alt="" />
+        <Image
+          className={cryptoStyles.icon}
+          src={`/svgs/${topic.title.replaceAll(" ", "-").toLowerCase()}.svg`}
+          alt={`${topic.title} preview`}
+          width={75}
+          height={75}
+        />
         <Box>
           <Typography
             className={cryptoStyles.cryptoName}
             sx={{ my: 3, fontSize: { xs: 23, md: 32 } }}
             variant="h4"
           >
-            {name}
+            {topic.title}
           </Typography>
-          {/* <Typography
-            sx={{
-              mb: 2,
-              fontWeight: 400,
-              display: { xs: "none", md: "inherit" },
-            }}
-            variant="body2"
-          >
-            {description}
-          </Typography> */}
           <Button
             sx={{ display: { xs: "none", md: "initial" } }}
             className={cryptoStyles.cryptoBtn}
