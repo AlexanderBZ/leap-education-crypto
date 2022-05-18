@@ -46,14 +46,12 @@ function MyApp({ Component, pageProps }) {
                 width: 960,
                 height: 539,
                 alt: "Leap Education Cover",
-                type: "image/png",
               },
             ],
             site_name: "Leap Education",
           }}
           twitter={{
-            handle: "@handle",
-            site: "@site",
+            handle: "@hey_zwerner",
             cardType: "summary_large_image",
           }}
         />
