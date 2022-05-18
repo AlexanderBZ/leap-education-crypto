@@ -59,6 +59,15 @@
   overflow: scroll;
 }
 
+.subtopics::-webkit-scrollbar {
+  display: none;
+}
+
+.subtopics {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
 .title {
   color: #c4c4c4;
   text-decoration: underline;

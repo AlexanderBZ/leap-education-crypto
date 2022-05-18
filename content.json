@@ -168,7 +168,7 @@
             "links": [
               {
                 "title": "How to DAO (DAOhaus, UberHaus)",
-                "href": "DAOhaus, UberHaus]"
+                "href": "https://daohaus.club/docs/uber_actions/"
               },
               {
                 "title": "DAOs & Creators: Resources to Get Started Today",
@@ -247,7 +247,7 @@
               },
               {
                 "title": "The History of Non-Fungible Tokens (NFTs)",
-                "href": "NFTs]"
+                "href": "https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10"
               }
             ]
           },
@@ -264,7 +264,7 @@
               },
               {
                 "title": "How to Buy a Non Fungible Token (NFT) For Beginners",
-                "href": "NFT For Beginners]"
+                "href": "https://medium.com/swlh/how-to-buy-a-non-fungible-token-nft-for-beginners-db81c6f617ba"
               },
               {
                 "title": "How to buy an NFT from OpenSea",
@@ -306,7 +306,7 @@
             "links": [
               {
                 "title": "How to Sell Non-Fungible Tokens (NFTs)",
-                "href": "NFTs]"
+                "href": "https://www.fool.com/investing/stock-market/market-sectors/financials/non-fungible-tokens/how-to-sell-nfts/#:~:text=Just%20transfer%20the%20NFT%20to,NFT%20you%20want%20to%20sell."
               },
               {
                 "title": "How To Sell NFTs In 5 Easy Steps",
@@ -339,8 +339,8 @@
                 "href": "https://99bitcoins.com/bitcoin-wallet/paper/private-key-sweep-import/"
               },
               {
-                "title": "Cryptocurrency Wallets - Public and Private Keys (Asymmetric Encryption Animated)",
-                "href": "Asymmetric Encryption Animated]"
+                "title": "Cryptocurrency Wallets - Public and Private Keys",
+                "href": "https://www.gemini.com/cryptopedia/public-private-keys-cryptography"
               },
               {
                 "title": "Cryptocurrency Wallet: A Complete Guide",
@@ -370,7 +370,7 @@
               },
               {
                 "title": "A Guide to ENS Domains + IPFS (Ethereum Name Service)",
-                "href": "Ethereum Name Service]"
+                "href": "https://blog.fleek.co/posts/guide-ens-domains-ipfs-ethereum-name-service"
               },
               {
                 "title": "How to get an ens domain?",
@@ -564,11 +564,11 @@
             "links": [
               {
                 "title": "What Is Proof of Stake (PoS) in Crypto?",
-                "href": "PoS in Crypto?]"
+                "href": "https://www.fool.com/investing/stock-market/market-sectors/financials/cryptocurrency-stocks/proof-of-stake/"
               },
               {
                 "title": "Understanding Proof of Stake through it\u2019s Flaws (Pt. 1)",
-                "href": "Pt. 1]"
+                "href": "https://medium.com/@abhisharm/understanding-proof-of-stake-through-its-flaws-pt-1-6728020994a1"
               },
               {
                 "title": "Transition to Proof of Stake might not be \u2018all shades of good\u2019.",
@@ -640,11 +640,11 @@
               },
               {
                 "title": "Initial Coin Offering (ICO) - Overview, Types, and How it Works",
-                "href": "ICO - Overview, Types, and How it Works]"
+                "href": "https://sgrlaw.com/what-are-icos-and-how-do-they-work/#:~:text=What%20are%20Initial%20Coin%20Offerings,monetary%20investment%20in%20the%20business."
               },
               {
                 "title": "Guide to launching an Initial Coin Offering (ICO)",
-                "href": "ICO]"
+                "href": "https://beincrypto.com/learn/how-to-launch-an-ico/"
               }
             ]
           }
@@ -792,7 +792,7 @@
             "links": [
               {
                 "title": "Zero Knowledge Proof: Explain it Like I\u2019m 5 (Halloween Edition)",
-                "href": "Halloween Edition]"
+                "href": "https://hackernoon.com/eli5-zero-knowledge-proof-78a276db9eff"
               },
               {
                 "title": "Zero Knowledge Proof: how to maintain privacy in a data-based world",
@@ -885,11 +885,11 @@
             "links": [
               {
                 "title": "Decentralized Finance (DeFi) Definition",
-                "href": "DeFi Definition]"
+                "href": "https://www.investopedia.com/decentralized-finance-defi-5113835"
               },
               {
                 "title": "Decentralized finance (DeFi)",
-                "href": "DeFi]"
+                "href": "https://ethereum.org/en/defi/"
               },
               {
                 "title": "Guide To Decentralized Finance",
@@ -972,7 +972,7 @@
             "links": [
               {
                 "title": "What Is Miner-Extractable Value (MEV)?",
-                "href": "MEV?]"
+                "href": "https://blog.chain.link/what-is-miner-extractable-value-mev/"
               },
               {
                 "title": "What Is MEV? Ethereum's Invisible Tax Explained",
@@ -980,7 +980,7 @@
               },
               {
                 "title": "Estimating (Miner) Extractable Value is Hard, Let's Go Shopping!",
-                "href": "Miner Extractable Value is Hard, Let's Go Shopping!]"
+                "href": "https://www.sba-research.org/2022/05/09/conference-paper-estimating-miner-extractable-value-is-hard-lets-go-shopping/"
               },
               {
                 "title": "Quantifying MEV",
@@ -1009,7 +1009,7 @@
               },
               {
                 "title": "Node (cryptocurrency network) \u2013 definition and examples",
-                "href": "cryptocurrency network \u2013 definition and examples]"
+                "href": "https://marketbusinessnews.com/financial-glossary/node-cryptocurrency-network/"
               },
               {
                 "title": "What Are Nodes? 7 Types of Blockchain Nodes",
@@ -1204,7 +1204,7 @@
               },
               {
                 "title": "Decentralized Autonomous Organization (DAO) - Investopedia",
-                "href": "DAO - Investopedia]"
+                "href": "https://www.investopedia.com/tech/what-dao/#:~:text=What%20Was%20the%20Decentralized%20Autonomous,computers%2C%20networks%2C%20and%20nodes."
               },
               {
                 "title": "Understanding DAOStack and joining a DAO",
@@ -1271,7 +1271,7 @@
               },
               {
                 "title": "ETHEREUM VIRTUAL MACHINE (EVM)",
-                "href": "EVM]"
+                "href": "https://ethereum.org/en/developers/docs/evm/"
               },
               {
                 "title": "The Year in Ethereum 2021",
@@ -1329,7 +1329,7 @@
               },
               {
                 "title": "7 Things to Know Before You Buy Cardano (ADA)",
-                "href": "ADA]"
+                "href": "https://www.fool.com/the-ascent/cryptocurrency/articles/7-things-to-know-before-you-buy-cardano-ada/"
               }
             ]
           },
@@ -1342,11 +1342,11 @@
               },
               {
                 "title": "Ripple (XRP) - Whitepaper.io",
-                "href": "XRP - Whitepaper.io]"
+                "href": "https://whitepaper.io/coin/ripple"
               },
               {
                 "title": "The Beginner's Guide to Ripple (XRP)",
-                "href": "XRP]"
+                "href": "https://cointelegraph.com/blockchain-for-beginners/what-is-ripple-a-beginners-guide-for-understanding-ripple#:~:text=Ripple%20(XRP)%20is%20a%20cryptocurrency,advantage%20for%20cross%2Dborder%20movements."
               },
               {
                 "title": "XRP \u2014 A Dead Coin Walking?",
@@ -1367,7 +1367,7 @@
               },
               {
                 "title": "What is Polkadot (DOT)?",
-                "href": "DOT?]"
+                "href": "https://www.coinbase.com/learn/crypto-basics/what-is-polkadot#:~:text=Polkadot%20is%20a%20protocol%20that,on%20Coinbase%20and%20other%20exchanges."
               },
               {
                 "title": "How To Easily Understand Polkadot",
@@ -1392,7 +1392,7 @@
               },
               {
                 "title": "What Is Uniswap (UNI) and How Does It Work?",
-                "href": "UNI and How Does It Work?]"
+                "href": "https://www.blockchain-council.org/ethereum/what-is-uniswap-uni-and-how-does-it-work/"
               },
               {
                 "title": "Uniswap Whitepaper",
@@ -1505,7 +1505,7 @@
               },
               {
                 "title": "What is Decentraland? (MANA)",
-                "href": "MANA]"
+                "href": "https://www.kraken.com/en-us/learn/what-is-decentraland-mana"
               },
               {
                 "title": "Decentraland Tutorial - What is it and how to play?",
@@ -1572,7 +1572,7 @@
               },
               {
                 "title": "Investing in Friends With Benefits (a DAO)",
-                "href": "a DAO]"
+                "href": "https://a16z.com/2021/10/27/investing-in-friends-with-benefits-a-dao/"
               },
               {
                 "title": "Friends With Benefits: A New Model for Social Tokens",

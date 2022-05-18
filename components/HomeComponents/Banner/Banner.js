@@ -9,12 +9,15 @@ import {
 } from "@mui/material";
 import { Box } from "@mui/system";
 import Image from "next/image";
-import React, { useRef } from "react";
+import React, { useRef, useState } from "react";
 import bitcoin from "../../../images/bitcoin.svg";
 import bannerStyles from "../../../styles/Banner.module.css";
 import Navigation from "../../Navigation/Navigation";
 
 const Banner = () => {
+  //UseState for submit
+  const [submit, setSubmit] = useState(false);
+
   //Ref for email
   const emailInputRef = useRef();
 
@@ -31,19 +34,14 @@ const Banner = () => {
     }
 
     try {
-      await fetch("https://www.getrevue.co/api/v2/subscribers", {
+      let response = await fetch("/api/subscribe", {
         method: "POST",
-        headers: {
-          Authorization: `Token ${process.env.REVUE_API_KEY}`,
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          email: enteredEmail,
-          double_opt_in: false,
-        }),
+        body: JSON.stringify({ email: enteredEmail }),
       });
 
       emailInputRef.current.value = "";
+
+      await setSubmit(true);
     } catch (error) {
       await console.log(error);
     }
@@ -75,7 +73,7 @@ const Banner = () => {
                   variant="h3"
                   component="h1"
                 >
-                  Take the Leap and dive into the Web 3.0 world
+                  Take the Leap and dive into the Web3 world
                 </Typography>
                 <Typography variant="body1">
                   {`Hey it's Alexander (The founder of Leap Education), check out
@@ -87,28 +85,29 @@ const Banner = () => {
                 <form
                   onSubmit={submitHandler}
                   className={bannerStyles.subscribeBox}
-                ></form>
-                <Stack
-                  direction="row"
-                  divider={<Divider orientation="vertical" flexItem />}
-                  spacing={2}
                 >
-                  <input
-                    className={bannerStyles.subscribeForm}
-                    placeholder="Enter your email address..."
-                    type="email"
-                    id="email"
-                    ref={emailInputRef}
-                    required
-                  />
-                  <Button
-                    className={bannerStyles.subscribeBtn}
-                    variant="contained"
-                    type="submit"
+                  <Stack
+                    direction="row"
+                    divider={<Divider orientation="vertical" flexItem />}
+                    spacing={2}
                   >
-                    Subscribe
-                  </Button>
-                </Stack>
+                    <input
+                      className={bannerStyles.subscribeForm}
+                      placeholder="Enter your email address..."
+                      type="email"
+                      id="email"
+                      ref={emailInputRef}
+                      required
+                    />
+                    <Button
+                      className={bannerStyles.subscribeBtn}
+                      variant="contained"
+                      type="submit"
+                    >
+                      {submit ? "Subscribed ✓" : "Subscribe"}
+                    </Button>
+                  </Stack>
+                </form>
               </Box>
             </Grid>
             <Grid item xs={2} md={6}>

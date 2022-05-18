@@ -28,19 +28,19 @@ const Footer = () => {
               <Image src={leapLogo} alt="" />
             </Grid>
             <Grid item xs={2} md={4}>
-              <Typography
+              {/* <Typography
                 className={footerStyles.footerTitle}
                 sx={{ fontSize: 32 }}
                 variant="h4"
               >
                 Donations are always appreciated
-              </Typography>
+              </Typography> */}
               {/* payment icons */}
-              <Box sx={{ display: "flex", gap: 2, mt: 3 }}>
+              {/* <Box sx={{ display: "flex", gap: 2, mt: 3 }}>
                 <Image src={visa} alt="" width={90} height={60} />
                 <Image src={mastercard} alt="" width={90} height={60} />
                 <Image src={bitcoinPay} alt="" width={90} height={60} />
-              </Box>
+              </Box> */}
             </Grid>
           </Grid>
           {/* footer bottom  */}
@@ -87,21 +87,21 @@ const Footer = () => {
         className={footerStyles.footerSection}
       >
         <Container sx={{ pt: 6, pb: 3 }}>
-          <Typography
+          {/* <Typography
             className={footerStyles.footerTitle}
             sx={{ fontSize: 20, textAlign: "center" }}
             variant="h4"
           >
             Donations are always appreciated
-          </Typography>
+          </Typography> */}
           {/* payments icons  */}
-          <Box
+          {/* <Box
             sx={{ display: "flex", justifyContent: "center", gap: 2, mt: 3 }}
           >
             <Image src={visa} alt="" width={60} height={60} />
             <Image src={mastercard} alt="" width={60} height={60} />
             <Image src={bitcoinPay} alt="" width={60} height={60} />
-          </Box>
+          </Box> */}
           {/* social  */}
           <Box
             sx={{

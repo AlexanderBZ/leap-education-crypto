@@ -6,7 +6,7 @@ import {
   TextField,
   Typography,
 } from "@mui/material";
-import React, { useRef } from "react";
+import React, { useRef, useState } from "react";
 import footerStyles from "../../../styles/Footer.module.css";
 import { Box } from "@mui/system";
 import Image from "next/image";
@@ -14,6 +14,9 @@ import ethereum from "../../../images/ethereum.svg";
 import bitcoinCurved from "../../../images/bitcoin-curved.svg";
 
 const Newsletter = () => {
+  //UseState for submit
+  const [submit, setSubmit] = useState(false);
+
   //Ref for email
   const emailInputRef = useRef();
 
@@ -30,19 +33,14 @@ const Newsletter = () => {
     }
 
     try {
-      await fetch("https://www.getrevue.co/api/v2/subscribers", {
+      let response = await fetch("/api/subscribe", {
         method: "POST",
-        headers: {
-          Authorization: `Token ${process.env.REVUE_API_KEY}`,
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          email: enteredEmail,
-          double_opt_in: false,
-        }),
+        body: JSON.stringify({ email: enteredEmail }),
       });
 
       emailInputRef.current.value = "";
+
+      await setSubmit(true);
     } catch (error) {
       await console.log(error);
     }
@@ -93,7 +91,7 @@ const Newsletter = () => {
                     variant="contained"
                     type="submit"
                   >
-                    Subscribe
+                    {submit ? "Subscribed ✓" : "Subscribe"}
                   </Button>
                 </Stack>
               </form>
