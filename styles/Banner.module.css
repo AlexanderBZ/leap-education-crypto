@@ -24,7 +24,13 @@
 }
 
 @media only screen and (max-width: 768px) {
+  .subscribeForm {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   .subscribeBtn {
     padding: 10px 20px !important;
+    right: 8% !important;
   }
 }
