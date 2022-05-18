@@ -31,18 +31,21 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <title>Leap Education</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        <meta property="og:url" content="leapeducation.org" />
+        <meta property="og:url" content="https://www.leapeducation.org" />
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Leap Education" />
-        <meta
-          name="twitter:card"
-          content="Collection of free curated resources on Web3"
-        />
         <meta
           property="og:description"
           content="Collection of free curated resources on Web3"
         />
-        <meta property="og:image" content={"/Cover.png"} />
+        <meta
+          property="og:image"
+          content={"https://www.leapeducation.org/Cover.png"}
+        />
+        <meta
+          name="twitter:card"
+          content="Collection of free curated resources on Web3"
+        />
         <link
           rel="apple-touch-icon"
           sizes="57x57"
