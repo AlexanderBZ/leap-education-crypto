@@ -5,6 +5,7 @@ import "@fontsource/rubik/700.css";
 import { useEffect } from "react";
 import { useRouter } from "next/router";
 import * as gtag from "../utils/gtag";
+import { NextSeo } from "next-seo";
 import Head from "next/head";
 import Header from "../components/Header/Header";
 import Layout from "../components/Layout";
