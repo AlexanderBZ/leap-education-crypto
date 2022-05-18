@@ -31,20 +31,30 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <title>Leap Education</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        <meta property="og:url" content="https://www.leapeducation.org" />
-        <meta property="og:type" content="website" />
-        <meta property="og:title" content="Leap Education" />
-        <meta
-          property="og:description"
-          content="Collection of free curated resources on Web3"
-        />
-        <meta
-          property="og:image"
-          content={"https://www.leapeducation.org/Cover.png"}
-        />
-        <meta
-          name="twitter:card"
-          content="Collection of free curated resources on Web3"
+        <NextSeo
+          title="Leap Education"
+          description="Collection of free curated resources on Web3"
+          canonical="https://www.leapeducation.org"
+          openGraph={{
+            url: "https://www.leapeducation.org",
+            title: "Open Graph Title",
+            description: "Open Graph Description",
+            images: [
+              {
+                url: "https://www.leapeducation.org/Cover.png",
+                width: 960,
+                height: 539,
+                alt: "Leap Education Cover",
+                type: "image/png",
+              },
+            ],
+            site_name: "Leap Education",
+          }}
+          twitter={{
+            handle: "@handle",
+            site: "@site",
+            cardType: "summary_large_image",
+          }}
         />
         <link
           rel="apple-touch-icon"
