@@ -34,10 +34,7 @@ function Navigation(props) {
         <Link href="https://twitter.com/Hey_Zwerner" passHref>
           Twitter
         </Link>
-        <Link
-          href="https://www.getrevue.co/profile/hey_alexanderz?via=twitter-profile"
-          passHref
-        >
+        <Link href="https://www.getrevue.co/profile/Hey_Zwerner" passHref>
           Newsletter
         </Link>
       </nav>
@@ -77,7 +74,7 @@ function Navigation(props) {
                     Twitter
                   </Link>
                   <Link
-                    href="https://www.getrevue.co/profile/hey_alexanderz?via=twitter-profile"
+                    href="https://www.getrevue.co/profile/Hey_Zwerner"
                     passHref
                   >
                     Newsletter
