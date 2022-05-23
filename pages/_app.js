@@ -5,7 +5,6 @@ import "@fontsource/rubik/700.css";
 import { useEffect } from "react";
 import { useRouter } from "next/router";
 import * as gtag from "../utils/gtag";
-import { NextSeo } from "next-seo";
 import Head from "next/head";
 import Header from "../components/Header/Header";
 import Layout from "../components/Layout";
@@ -32,29 +31,6 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <title>Leap Education</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        <NextSeo
-          title="Leap Education"
-          description="Collection of free curated resources on Web3"
-          canonical="https://www.leapeducation.org"
-          openGraph={{
-            url: "https://www.leapeducation.org",
-            title: "Open Graph Title",
-            description: "Open Graph Description",
-            images: [
-              {
-                url: "https://www.leapeducation.org/Cover.png",
-                width: 960,
-                height: 539,
-                alt: "Leap Education Cover",
-              },
-            ],
-            site_name: "Leap Education",
-          }}
-          twitter={{
-            handle: "@hey_zwerner",
-            cardType: "summary_large_image",
-          }}
-        />
         <link
           rel="apple-touch-icon"
           sizes="57x57"
@@ -128,6 +104,26 @@ function MyApp({ Component, pageProps }) {
         <meta name="msapplication-TileColor" content="#000000" />
         <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
         <meta name="theme-color" content="#000000" />
+        <link rel="manifest" href="/manifest.json" />
+        <meta name="msapplication-TileColor" content="#000000" />
+        <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
+        <meta name="theme-color" content="#000000" />
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+        <meta property="og:url" content="www.leapeducation.org" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="Leap Education" />
+        <meta
+          name="twitter:card"
+          content="Curated high quality, free Web3 resources"
+        />
+        <meta
+          property="og:description"
+          content="Curated high quality, free Web3 resources"
+        />
+        <meta
+          property="og:image"
+          content={"https://leapeducation.org/Cover.png"}
+        />
       </Head>
       <Header />
       <Layout>
