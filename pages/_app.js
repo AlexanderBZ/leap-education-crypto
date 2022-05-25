@@ -11,20 +11,16 @@ import Layout from "../components/Layout";
 
 function MyApp({ Component, pageProps }) {
   // see if the website is in production
-  // const isProduction = process.env.NODE_ENV === "production";
-
-  // if (isProduction) {
-  //   const router = useRouter();
-  //   useEffect(() => {
-  //     const handleRouteChange = (url) => {
-  //       gtag.pageview(url);
-  //     };
-  //     router.events.on("routeChangeComplete", handleRouteChange);
-  //     return () => {
-  //       router.events.off("routeChangeComplete", handleRouteChange);
-  //     };
-  //   }, [router.events]);
-  // }
+  const router = useRouter();
+  useEffect(() => {
+    const handleRouteChange = (url) => {
+      gtag.pageview(url);
+    };
+    router.events.on("routeChangeComplete", handleRouteChange);
+    return () => {
+      router.events.off("routeChangeComplete", handleRouteChange);
+    };
+  }, [router.events]);
 
   return (
     <>
