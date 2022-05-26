@@ -67,5 +67,6 @@
     max-height: none;
     min-width: auto;
     position: fixed;
+    overflow: hidden;
   }
 }

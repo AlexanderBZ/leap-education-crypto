@@ -109,16 +109,23 @@ function MyApp({ Component, pageProps }) {
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Leap Education" />
         <meta
-          name="twitter:card"
-          content="Curated high quality, free Web3 resources"
-        />
-        <meta
           property="og:description"
           content="Curated high quality, free Web3 resources"
         />
         <meta
           property="og:image"
           content={"https://leapeducation.org/Cover.png"}
+        />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@Hey_Zwerner" />
+        <meta name="twitter:title" content="Leap Education" />
+        <meta
+          name="twitter:description"
+          content="Curated high quality, free Web3 resources"
+        />
+        <meta
+          name="twitter:image:src"
+          content="https://www.leapeducation.org/Cover.png"
         />
       </Head>
       <Header />

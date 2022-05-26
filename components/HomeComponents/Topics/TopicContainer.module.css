@@ -82,4 +82,9 @@
     min-width: auto;
     position: fixed;
   }
+
+  .header {
+    max-width: 100%;
+    overflow: hidden;
+  }
 }
