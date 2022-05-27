@@ -1,20 +1,9 @@
-const { PHASE_DEVELOPMENT_SERVER } = require("next/constants");
-
-module.exports = (phase) => {
-  //require("./pages/sitemap.xml");
-  if (phase === PHASE_DEVELOPMENT_SERVER) {
-    return {
-      reactStrictMode: true,
-      env: {
-        development: "development",
-      },
-    };
-  }
-
-  return {
-    reactStrictMode: true,
-    env: {
-      development: "production",
-    },
-  };
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  reactStrictMode: true,
+  env: {
+    REVUE_API_KEY: "CNp6rFhx512GG6XY64KM1SIbjMrwWQxA",
+  },
 };
+
+module.exports = nextConfig;
