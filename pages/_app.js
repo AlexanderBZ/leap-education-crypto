@@ -2,28 +2,25 @@ import "../styles/globals.css";
 import "@fontsource/rubik/400.css";
 import "@fontsource/rubik/500.css";
 import "@fontsource/rubik/700.css";
-import { useEffect } from "react";
-import { useRouter } from "next/router";
-import * as gtag from "../utils/gtag";
+import Script from "next/script";
 import Head from "next/head";
 import Header from "../components/Header/Header";
 import Layout from "../components/Layout";
 
 function MyApp({ Component, pageProps }) {
-  // see if the website is in production
-  const router = useRouter();
-  useEffect(() => {
-    const handleRouteChange = (url) => {
-      gtag.pageview(url);
-    };
-    router.events.on("routeChangeComplete", handleRouteChange);
-    return () => {
-      router.events.off("routeChangeComplete", handleRouteChange);
-    };
-  }, [router.events]);
-
   return (
     <>
+      <Script
+        async
+        src="https://www.googletagmanager.com/gtag/js?id=G-3RP7H6LMZT"
+      ></Script>
+      <Script>
+        {`window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-3RP7H6LMZT');`}
+      </Script>
       <Head>
         <title>Leap Education</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
