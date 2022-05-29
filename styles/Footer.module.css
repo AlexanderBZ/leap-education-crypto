@@ -24,6 +24,7 @@
   color: #0d0d2b !important;
   border-radius: 32px !important;
   padding: 10px 40px !important;
+  z-index: 100;
 }
 
 .newsletterTextBox {
@@ -37,6 +38,11 @@
 
 .newsletterFormBox {
   position: relative;
+}
+
+.newsletterFormInput {
+  display: flex;
+  flex-direction: row;
 }
 
 .bitcoinCurved {

@@ -1,6 +1,7 @@
 .headerSection {
   background: #0d0d2b;
 }
+
 .subscribeBox {
   position: relative !important;
 }
@@ -31,6 +32,6 @@
 
   .subscribeBtn {
     padding: 10px 20px !important;
-    right: 8% !important;
+    right: 9% !important;
   }
 }

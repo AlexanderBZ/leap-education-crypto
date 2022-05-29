@@ -1,14 +1,15 @@
 import {
   Button,
   Container,
+  Divider,
   Grid,
   Stack,
   TextField,
   Typography,
 } from "@mui/material";
+import { Box } from "@mui/system";
 import React, { useRef, useState } from "react";
 import footerStyles from "../../../styles/Footer.module.css";
-import { Box } from "@mui/system";
 import Image from "next/image";
 import ethereum from "../../../images/ethereum.svg";
 import bitcoinCurved from "../../../images/bitcoin-curved.svg";
@@ -75,25 +76,23 @@ const Newsletter = () => {
             <Box sx={{ pr: 4 }} className={footerStyles.newsletterFormBox}>
               <form
                 onSubmit={submitHandler}
-                className={footerStyles.newsletterFormBox}
+                className={footerStyles.newsletterFormInput}
               >
-                <Stack direction="row" spacing={2}>
-                  <input
-                    className={footerStyles.newsletterForm}
-                    placeholder="Enter your email"
-                    type="email"
-                    id="email"
-                    ref={emailInputRef}
-                    required
-                  />
-                  <Button
-                    className={footerStyles.newsletterBtn}
-                    variant="contained"
-                    type="submit"
-                  >
-                    {submit ? "Subscribed ✓" : "Subscribe"}
-                  </Button>
-                </Stack>
+                <input
+                  className={footerStyles.newsletterForm}
+                  placeholder="Enter your email"
+                  type="email"
+                  id="email"
+                  ref={emailInputRef}
+                  required
+                />
+                <Button
+                  className={footerStyles.newsletterBtn}
+                  variant="contained"
+                  type="submit"
+                >
+                  {submit ? "Subscribed✓" : "Subscribe"}
+                </Button>
               </form>
 
               <Box className={footerStyles.bitcoinCurved}>
