@@ -12,14 +12,14 @@ function MyApp({ Component, pageProps }) {
     <>
       <Script
         async
-        src="https://www.googletagmanager.com/gtag/js?id=G-3RP7H6LMZT"
+        src="https://www.googletagmanager.com/gtag/js?id=G-BK8ZJ9KFQ9"
       ></Script>
       <Script id="google-analytics">
         {`window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
 
-        gtag('config', 'G-3RP7H6LMZT');`}
+        gtag('config', 'G-BK8ZJ9KFQ9');`}
       </Script>
       <Head>
         <title>Leap Education</title>
