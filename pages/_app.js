@@ -23,6 +23,10 @@ function MyApp({ Component, pageProps }) {
       </Script>
       <Head>
         <title>Leap Education</title>
+        <meta
+          name="description"
+          content="Curated high quality, free Web3 resources"
+        />
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <link
           rel="apple-touch-icon"
